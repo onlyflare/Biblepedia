@@ -99,8 +99,7 @@ module.exports = {
             }
 
             //Checks if book name exists
-            const lowerCaseName = bookInput.toLowerCase()
-            const noSpaceBookName = lowerCaseName.replaceAll(' ', '');
+            const noSpaceBookName = bookInput.replaceAll(' ', '').toLowerCase();
             if (!checkJsonFile(noSpaceBookName)) {
                 await interaction.reply(`There is no book named \`${bookInput}\` in the Bible!\n\nUse \`/search\` again without any arguments to see all the books.`);
                 return;
