@@ -1,0 +1,110 @@
+{
+    "en": {
+        "folder": "bible-kjv",
+        "version": "KJV",
+        "title": "King James Bible",
+        "description": "God's Words in Your Hearts",
+        "oldTestament": "Old Testament",
+        "newTestament": "New Testament",
+        "noBookFound": "There is not book named",
+        "inTheBible": "in the Bible",
+        "useSearchAgain": "Use `/search` again without any arguments to see all the books available." ,
+        "hasOnly": "has only",
+        "ofBook": "of",
+        "chapters": "chapters",
+        "chapter": "Chapter",
+        "verse": "Verse",
+        "verses": "Verses",
+        "text": "Text",
+        "oldTestamentBooks": [
+            "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
+            "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel",
+            "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra",
+            "Nehemiah", "Esther", "Job", "Psalms", "Proverbs",
+            "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
+            "Ezekiel", "Daniel", "Hosea", "Joel", "Amos",
+            "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk",
+            "Zephaniah", "Haggai", "Zechariah", "Malachi"
+        ],
+        "newTestamentBooks": [
+            "Matthew", "Mark", "Luke", "John", "Acts",
+            "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians",
+            "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians",
+            "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews",
+            "James", "1 Peter", "2 Peter", "1 John", "2 John",
+            "3 John", "Jude", "Revelation"
+        ]
+    },
+    "pt": {
+        "folder": "bible-acf",
+        "version": "ACF",
+        "title": "Bíblia Almeira Corrijida Fiel",
+        "description": "A Palavra de Deus em Vossos Corações",
+        "oldTestament": "Velho Testamento",
+        "newTestament": "Novo Testamento",
+        "noBookFound": "Não há nenhum livro chamado",
+        "inTheBible": "na Bíblia",
+        "useSearchAgain": "Use `/search` novamente selecionando apenas o idioma para ver os livros disponíveis." ,
+        "hasOnly": "tem apenas",
+        "ofBook": "do livro de",
+        "chapters": "capítulos",
+        "chapter": "Capitulo",
+        "verse": "Versículo",
+        "verses": "Versículos",
+        "text": "Passagem",
+        "oldTestamentBooks": [
+            "Gênesis", "Êxodo", "Levítico", "Números", "Deuteronômio",
+            "Josué", "Juízes", "Rute", "1 Samuel", "2 Samuel",
+            "1 Reis", "2 Reis", "1 Crônicas", "2 Crônicas", "Esdras",
+            "Neemias", "Ester", "Jó", "Salmos", "Provérbios",
+            "Eclesiastes", "Cântico dos Cânticos", "Isaías", "Jeremias", "Lamentações",
+            "Ezequiel", "Daniel", "Oséias", "Joel", "Amós",
+            "Obadias", "Jonas", "Miquéias", "Naum", "Habacuque",
+            "Sofonias", "Ageu", "Zacarias", "Malaquias"
+        ],
+        "newTestamentBooks": [
+            "Mateus", "Marcos", "Lucas", "João", "Atos",
+            "Romanos", "1 Coríntios", "2 Coríntios", "Gálatas", "Efésios",
+            "Filipenses", "Colossenses", "1 Tessalonicenses", "2 Tessalonicenses",
+            "1 Timóteo", "2 Timóteo", "Tito", "Filemom", "Hebreus",
+            "Tiago", "1 Pedro", "2 Pedro", "1 João", "2 João",
+            "3 João", "Judas", "Apocalipse"
+        ]
+    },
+    "es": {
+        "folder": "bible-rvr",
+        "version": "RVR",
+        "title": "Biblia Reina-Valera",
+        "description": "La Palabra de Dios en Vuestros Corazones",
+        "oldTestament": "Antiguo Testamento",
+        "newTestament": "Nuevo Testamento",
+        "noBookFound": "No hay ningún libro llamado",
+        "inTheBible": "en la Biblia",
+        "useSearchAgain": "Utiliza `/search` nuevamente seleccionando solo el idioma para ver los libros disponibles.",
+        "hasOnly": "tiene solo",
+        "ofBook": "del libro de",
+        "chapters": "capítulos",
+        "chapter": "Capítulo",
+        "verse": "Versículo",
+        "verses": "Versículos",
+        "text": "Pasaje",
+        "oldTestamentBooks": [
+            "Génesis", "Éxodo", "Levítico", "Números", "Deuteronomio",
+            "Josué", "Jueces", "Rut", "1 Samuel", "2 Samuel",
+            "1 Reyes", "2 Reyes", "1 Crónicas", "2 Crónicas", "Esdras",
+            "Nehemías", "Ester", "Job", "Salmos", "Proverbios",
+            "Eclesiastés", "Cantar de los Cantares", "Isaías", "Jeremías", "Lamentaciones",
+            "Ezequiel", "Daniel", "Oseas", "Joel", "Amós",
+            "Abdías", "Jonás", "Miqueas", "Nahum", "Habacuc",
+            "Sofonías", "Ageo", "Zacarías", "Malaquías"
+        ],
+        "newTestamentBooks": [
+            "Mateo", "Marcos", "Lucas", "Juan", "Hechos",
+            "Romanos", "1 Corintios", "2 Corintios", "Gálatas", "Efesios",
+            "Filipenses", "Colosenses", "1 Tesalonicenses", "2 Tesalonicenses",
+            "1 Timoteo", "2 Timoteo", "Tito", "Filemón", "Hebreos",
+            "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan",
+            "3 Juan", "Judas", "Apocalipsis"
+        ]
+    }
+}

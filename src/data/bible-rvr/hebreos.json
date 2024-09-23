@@ -1,0 +1,1283 @@
+{
+    "book": "Hebreos",
+    "title": "La Epístola a los Hebreos",
+    "chapters": [
+        {
+            "chapter": 1,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Dios, que habló muchas veces, y en muchas maneras en otro tiempo a los padres por los profetas,"
+                },
+                {
+                    "verse": 2,
+                    "text": "Nos ha hablado en estos postreros días por  su Hijo, a quien constituyó heredero de todas las cosas, por quien asimismo hizo los siglos;"
+                },
+                {
+                    "verse": 3,
+                    "text": "El cual siendo el resplandor de  su gloria, y la imagen expresa de su sustancia, y sustentando todas las cosas con la palabra de su poder, habiendo hecho la purgación de nuestros pecados por sí mismo, se asentó a la diestra de la majestad en las alturas;"
+                },
+                {
+                    "verse": 4,
+                    "text": "Siendo hecho tanto más excelente que los ángeles, cuanto alcanzó por herencia más excelente nombre que ellos."
+                },
+                {
+                    "verse": 5,
+                    "text": "¿Porque a cuál de los ángeles dijo  Dios jamás: Mi Hijo eres tú, yo te he engendrado hoy? Y otra vez: Yo seré a él Padre, y él me será a mí Hijo?"
+                },
+                {
+                    "verse": 6,
+                    "text": "Y otra vez, cuando introduce al primogénito en la redondez de la tierra, dice: Y adórenle todos los ángeles de Dios."
+                },
+                {
+                    "verse": 7,
+                    "text": "Y ciertamente  con respecto a los ángeles dice: El que hace sus ángeles espíritus, y a sus ministros, llama de fuego."
+                },
+                {
+                    "verse": 8,
+                    "text": "Mas al Hijo: Tu trono, oh Dios, por los siglos de los siglos: cetro de rectitud el cetro de tu reino."
+                },
+                {
+                    "verse": 9,
+                    "text": "Amaste la justicia, y aborreciste la maldad; por esto Dios, tu Dios, te ungió, con el aceite de alegría más que a tus compañeros."
+                },
+                {
+                    "verse": 10,
+                    "text": "Y: Tú, Señor, en el principio fundaste la tierra; y los cielos son obras de tus manos:"
+                },
+                {
+                    "verse": 11,
+                    "text": "Ellos perecerán, mas tú eres permanente; y todos ellos envejecerse han como vestidura;"
+                },
+                {
+                    "verse": 12,
+                    "text": "Y como un manto los envolverás, y serán mudados: tú empero eres el mismo, y tus años nunca se acabarán."
+                },
+                {
+                    "verse": 13,
+                    "text": "Además, ¿a cuál de los ángeles dijo él jamás: Asiéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies?"
+                },
+                {
+                    "verse": 14,
+                    "text": "¿No son todos espíritus ministradores, enviados para ministrar por aquellos, que serán herederos de salud?"
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por lo cual es menester que tanto con más diligencia estemos atentos a las cosas que hemos oído, porque no nos escurramos."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque si la palabra dicha por  el ministerio de los ángeles fue firme, y toda transgresión y desobediencia recibió justa paga de  su galardón,"
+                },
+                {
+                    "verse": 3,
+                    "text": "¿Cómo escaparemos nosotros, si tuviéremos en poco  una salud tan grande? la cual habiendo primero comenzado a ser publicada por el Señor, ha sido confirmada hasta nosotros por los que  le oyeron a  él mismo:"
+                },
+                {
+                    "verse": 4,
+                    "text": "Testificando juntamente con  ellos Dios con señales, y maravillas, y con diversos milagros, y dones del Espíritu Santo,  repartiéndolos según su voluntad."
+                },
+                {
+                    "verse": 5,
+                    "text": "¶ Porque no sujetó a los ángeles el mundo venidero, del cual hablamos."
+                },
+                {
+                    "verse": 6,
+                    "text": "Testificó empero uno en cierto lugar, diciendo: ¿Qué es el hombre que te acuerdas de él, o el hijo del hombre que le visitas?"
+                },
+                {
+                    "verse": 7,
+                    "text": "Hicístele un poco menor que los ángeles, coronástele de gloria y de honra, y pusístele sobre las obras de tus manos."
+                },
+                {
+                    "verse": 8,
+                    "text": "Todas las cosas sujetaste debajo de sus pies. Porque en cuanto le sujetó todas las cosas, nada dejó  que no  sea sujeto a él. Mas ahora no vemos  todavía que todas las cosas le sean sujetas."
+                },
+                {
+                    "verse": 9,
+                    "text": "Empero vemos a aquel  mismo Jesús, que fue hecho un poco menor que los ángeles por pasión de muerte, coronado de gloria y de honra, para que por la gracia de Dios gustase la muerte por todos."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque convenía, que aquel por cuya causa  son todas las cosas, y por el cual  son todas las cosas, habiendo de llevar muchos hijos a la gloria, hiciese consumado al príncipe de la salud de ellos por medio de padecimientos."
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque el que santifica y los que son santificados de uno  son todos; por cuya causa no se avergüenza de llamarlos hermanos,"
+                },
+                {
+                    "verse": 12,
+                    "text": "Diciendo: Anunciaré tu nombre a mis hermanos, en medio de la iglesia salmearte he."
+                },
+                {
+                    "verse": 13,
+                    "text": "Y otra vez: Yo confiaré en él. Y otra vez: He aquí yo, y los hijos que me dio Dios."
+                },
+                {
+                    "verse": 14,
+                    "text": "Así que por cuanto los hijos participan de la carne y de la sangre, también él de la misma manera participó de las mismas  cosas; para que por medio de la muerte redujese a la impotencia al que tenía la potencia de la muerte, es a saber, al diablo;"
+                },
+                {
+                    "verse": 15,
+                    "text": "Y librar a los que por el temor de la muerte estaban por toda la vida sujetos a servidumbre."
+                },
+                {
+                    "verse": 16,
+                    "text": "Que ciertamente no toma a los ángeles, mas toma a la simiente de Abraham."
+                },
+                {
+                    "verse": 17,
+                    "text": "Por lo cual fue necesario que en todo semejase a  sus hermanos, para que fuese un sumo sacerdote misericordioso y fiel en lo  perteneciente a Dios, a fin de expiar los pecados del pueblo."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque en cuanto él mismo padeció, siendo tentado, es poderoso para también socorrer a los que son tentados."
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por lo cual hermanos, santos, participantes de la vocación celestial, considerád el apóstol y sumo sacerdote de nuestra profesión Cristo Jesús,"
+                },
+                {
+                    "verse": 2,
+                    "text": "El cual fue fiel al que le constituyó, como también  lo fue Moisés en toda su casa."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque de  tanto mayor gloria que Moisés éste es estimado digno, cuanto tiene mayor dignidad que la casa el que la fabricó."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque toda casa es edificada por alguno; mas el que creó todas las cosas,  es Dios."
+                },
+                {
+                    "verse": 5,
+                    "text": "Y Moisés a la verdad fue fiel en toda su casa, como criado;  empero para testificar aquellas cosas que después se habían de denunciar;"
+                },
+                {
+                    "verse": 6,
+                    "text": "Mas Cristo, como hijo sobre su propia casa, la cual casa somos nosotros, si hasta el cabo retenemos firme la confianza y la alegría de la esperanza."
+                },
+                {
+                    "verse": 7,
+                    "text": "Por lo cual, como dice el Espíritu Santo: Si oyereis hoy su voz;"
+                },
+                {
+                    "verse": 8,
+                    "text": "No endurezcáis vuestros corazones como en la provocación, en el día de la tentación en el desierto,"
+                },
+                {
+                    "verse": 9,
+                    "text": "Donde me tentaron vuestros padres: me probaron, y vieron mis obras cuarenta años."
+                },
+                {
+                    "verse": 10,
+                    "text": "A causa de lo cual me indigné con aquella generación, y dije: Perpetuamente yerran de corazón, y ni ellos han conocido mis caminos;"
+                },
+                {
+                    "verse": 11,
+                    "text": "Así que juré en mi ira, Si entrarán en mi reposo."
+                },
+                {
+                    "verse": 12,
+                    "text": "Estád alerta, hermanos, que en ninguno de vosotros haya corazón maleado de incredulidad para apartarse del Dios vivo;"
+                },
+                {
+                    "verse": 13,
+                    "text": "Antes exhortáos los unos a los otros cada día, entre tanto que se dice Hoy; porque ninguno de vosotros se endurezca por el engaño del pecado."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque participantes de Cristo somos hechos, si empero retenemos firme hasta el cabo el principio de la confianza."
+                },
+                {
+                    "verse": 15,
+                    "text": "Entre tanto que se dice: Si oyereis hoy su voz, no endurezcáis vuestros corazones, como en la provocación."
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque algunos, habiendo oído, provocaron; aunque no todos los que salieron de Egipto por  medio de Moisés."
+                },
+                {
+                    "verse": 17,
+                    "text": "Mas, ¿con quiénes estuvo indignado cuarenta años? ¿no  fue con aquellos que pecaron, cuyos miembros cayeron en el desierto?"
+                },
+                {
+                    "verse": 18,
+                    "text": "¿Y a quiénes juró que no entrarían en su reposo, sino a aquellos que no creyeron?"
+                },
+                {
+                    "verse": 19,
+                    "text": "Así vemos que no pudieron entrar a causa de la incredulidad."
+                }
+            ]
+        },
+        {
+            "chapter": 4,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Temamos, pues, no sea que, habiéndo nos sido dejada una promesa de entrada en su reposo, parezca a alguno de nosotros quedar frustrado  de ella."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque también a nosotros nos ha sido anunciada la buena nueva como a ellos; mas la palabra oída no les aprovechó a ellos, no siendo mezclada con fe en aquellos que  la oyeron."
+                },
+                {
+                    "verse": 3,
+                    "text": "Entramos empero en el reposo los que hemos creído, de la manera que dijo: Así que juré en mi ira, si entrarán en mi reposo: aun acabadas las obras desde el principio del mundo."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque en un cierto lugar dijo así del séptimo día: Y reposó Dios de todas sus obras en el séptimo día."
+                },
+                {
+                    "verse": 5,
+                    "text": "Y otra vez aquí, Si entrarán en mi reposo."
+                },
+                {
+                    "verse": 6,
+                    "text": "Así que pues que resta que algunos han de entrar en él, y que aquellos a quiénes primero fue anunciado el evangelio, no entraron por causa de la incredulidad,"
+                },
+                {
+                    "verse": 7,
+                    "text": "Determina otra vez un cierto día, diciendo por David: Hoy, tanto tiempo después; como está dicho: Si oyereis hoy su voz, no endurezcáis vuestros corazones."
+                },
+                {
+                    "verse": 8,
+                    "text": "Porque si Josué les hubiera dado el reposo, nunca habría él hablado, después de esto, de otro día."
+                },
+                {
+                    "verse": 9,
+                    "text": "Así que queda el sabatismo para el pueblo de Dios."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque el que ha entrado en el reposo de él, ha reposado también él mismo de sus propias obras, como Dios  reposó de las suyas."
+                },
+                {
+                    "verse": 11,
+                    "text": "¶ Esforcémosnos, pues, a entrar en aquel reposo, a fin de que ninguno caiga en el mismo ejemplo de incredulidad."
+                },
+                {
+                    "verse": 12,
+                    "text": "¶ Porque la palabra de Dios es viva y eficaz, y más penetrante que toda espada de dos filos; y que alcanza hasta partir el alma, y aun el espíritu, y las coyunturas, y tuétanos; y que discierne los pensamientos, y las intenciones del corazón."
+                },
+                {
+                    "verse": 13,
+                    "text": "Y no hay criatura alguna que no sea manifiesta en su presencia: antes todas las cosas  están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta."
+                },
+                {
+                    "verse": 14,
+                    "text": "Teniendo pues un gran sumo sacerdote, que penetró los cielos, Jesús el Hijo de Dios, retengamos firme  nuestra profesión."
+                },
+                {
+                    "verse": 15,
+                    "text": "Que no tenemos un sumo sacerdote que no se pueda resentir de nuestras flaquezas; mas tentado en todo según  nuestra semejanza, sacado el pecado."
+                },
+                {
+                    "verse": 16,
+                    "text": "Lleguémosnos, pues, confiadamente al trono de  su gracia, a fin de alcanzar misericordia, y hallar gracia para el auxilio oportuno."
+                }
+            ]
+        },
+        {
+            "chapter": 5,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Porque todo sumo sacerdote tomado de entre los hombres, es constituido en favor de los hombres en lo que a Dios toca, para que ofrezca presentes, y también sacrificios por los pecados:"
+                },
+                {
+                    "verse": 2,
+                    "text": "Que se pueda compadecer de los ignorantes y de los errados, porque él también está rodeado de flaqueza:"
+                },
+                {
+                    "verse": 3,
+                    "text": "Por causa de la cual deba, como por el pueblo así también por sí mismo, ofrecer  sacrificios por los pecados."
+                },
+                {
+                    "verse": 4,
+                    "text": "¶ Ni nadie toma para sí mismo esta honra, sino el que es llamado de Dios, como  lo fue Aarón."
+                },
+                {
+                    "verse": 5,
+                    "text": "Así también Cristo no se glorificó a sí mismo, para ser hecho sumo sacerdote, sino el que le dijo: Tú eres mi Hijo, yo te he engendrado hoy."
+                },
+                {
+                    "verse": 6,
+                    "text": "Como también dice en otro  lugar: Tú  eres sacerdote eternamente, según el orden de Melquisedec."
+                },
+                {
+                    "verse": 7,
+                    "text": "El cual en los días de su carne, habiendo ofrecido ruegos y también suplicaciones con gran clamor y lágrimas a aquel que le podía librar de la muerte, fue oído  y librado de  su miedo."
+                },
+                {
+                    "verse": 8,
+                    "text": " Y aunque era Hijo, sin embargo por lo que padeció aprendió la obediencia;"
+                },
+                {
+                    "verse": 9,
+                    "text": "Y consumado, fue hecho causa de eterna salud para todos los que le obedecen:"
+                },
+                {
+                    "verse": 10,
+                    "text": "Nombrado de Dios sumo sacerdote según el orden de Melquisedec."
+                },
+                {
+                    "verse": 11,
+                    "text": "¶ Del cual tenemos mucho que decir, y dificultoso de declarar, por cuanto sois perezosos para oír."
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque debiendo de ser ya maestros, a causa del tiempo, tenéis necesidad de volver a ser enseñados, de cuáles  sean los elementos del principio de los oráculos de Dios, y sois hechos tales que tengáis necesidad de leche, y no de mantenimiento firme."
+                },
+                {
+                    "verse": 13,
+                    "text": "Que cualquiera que usa de leche, no tiene  aun experiencia de la palabra de justicia, porque es niño."
+                },
+                {
+                    "verse": 14,
+                    "text": "Mas de los  ya hombres perfectos es la vianda firme,  es a saber, de los que por la costumbre tienen  ya los sentidos ejercitados a la discreción del bien y del mal."
+                }
+            ]
+        },
+        {
+            "chapter": 6,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por lo cual dejando ya la palabra del comienzo  en la institución de Cristo, vayamos adelante a la perfección, no echando otra vez el fundamento del arrepentimiento de las obras muertas, y de la fe a Dios,"
+                },
+                {
+                    "verse": 2,
+                    "text": "De la doctrina de los bautismos, y de la imposición de manos, y de la resurrección de los muertos, y del juicio eterno;"
+                },
+                {
+                    "verse": 3,
+                    "text": "Y esto haremos, a la verdad, si Dios  lo permitiere."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque  es imposible que los que una vez recibieron la luz, y que gustaron el don celestial, y que fueron hechos partícipes del Espíritu Santo,"
+                },
+                {
+                    "verse": 5,
+                    "text": "Y que  asimismo gustaron la buena palabra de Dios, y las virtudes del siglo venidero,"
+                },
+                {
+                    "verse": 6,
+                    "text": "Y han caído  en apostasía, ser renovados de nuevo por arrepentimiento, crucificando otra vez para sí mismos al Hijo de Dios, y exponiéndole a vituperio."
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque la tierra que embebe la lluvia que muchas veces viene sobre ella, y que engendra yerba oportuna a aquellos por los cuales es labrada, recibe bendición de Dios."
+                },
+                {
+                    "verse": 8,
+                    "text": "Mas la que produce espinas y abrojos,  es reprobada, y cercana de maldición,  y cuyo fin  es ser quemada."
+                },
+                {
+                    "verse": 9,
+                    "text": "Pero de vosotros,  oh amados, confiamos mejores cosas, y más cercanas a salud, aunque hablamos así."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque Dios no es injusto que se olvide de vuestra obra, y del trabajo de amor que habéis mostrado por respeto a su nombre, habiendo ministrado a los santos, y ministrándo los aun."
+                },
+                {
+                    "verse": 11,
+                    "text": "Empero deseamos que cada uno de vosotros muestre la misma solicitud hasta el cabo para completa seguridad de  su esperanza."
+                },
+                {
+                    "verse": 12,
+                    "text": "Que no os hagáis perezosos, mas imitadores de aquellos que por medio de la fe y de la paciencia están heredando las promesas."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque cuando Dios hizo la promesa a Abraham, ya que no podía jurar por otro mayor, juró por sí mismo,"
+                },
+                {
+                    "verse": 14,
+                    "text": "Diciendo: Ciertamente te bendeciré bendiciendo; y multiplicando, te multiplicaré."
+                },
+                {
+                    "verse": 15,
+                    "text": "Y así habiendo esperado con largura de ánimo, alcanzó la promesa."
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque los hombres ciertamente por el mayor  que ellos juran; y el juramento, para confirmación,  es para ellos el término de toda contención."
+                },
+                {
+                    "verse": 17,
+                    "text": "En lo cual queriendo Dios mostrar más abundantemente a los herederos de la promesa la inmutabilidad de su consejo, intervino con juramento;"
+                },
+                {
+                    "verse": 18,
+                    "text": "Para que por dos cosas inmutables, en las cuales  era imposible que Dios mintiese, tuviéramos un fortísimo consuelo, los que nos hemos refugiado a trabarnos de la esperanza propuesta;"
+                },
+                {
+                    "verse": 19,
+                    "text": "La cual tenemos como áncora del alma, tan segura como firme, y que entra hasta del velo adentro:"
+                },
+                {
+                    "verse": 20,
+                    "text": "Donde entró por nosotros  nuestro precursor Jesús, hecho sumo sacerdote por siempre según el orden de Melquisedec."
+                }
+            ]
+        },
+        {
+            "chapter": 7,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Porque este Melquisedec, rey de Salem, sacerdote del Dios Altísimo, el cual salió al encuentro a Abraham que volvía de la matanza de los reyes, y le bendijo:"
+                },
+                {
+                    "verse": 2,
+                    "text": "A quien asimismo dio Abraham la décima parte de todo: primeramente el cual ciertamente se interpreta, Rey de justicia; y luego también, Rey de Salem, que es, Rey de paz;"
+                },
+                {
+                    "verse": 3,
+                    "text": "Sin padre, sin madre, sin genealogía; que ni tiene principio de días, ni fin de vida; mas hecho semejante al Hijo de Dios, se queda sacerdote continuamente."
+                },
+                {
+                    "verse": 4,
+                    "text": "Considerád pues cuán grande  fue éste, a quien aun Abraham el patriarca dio la décima de los despojos."
+                },
+                {
+                    "verse": 5,
+                    "text": "Que ciertamente los que de los hijos de Leví reciben el sacerdocio, tienen mandamiento de tomar diezmos del pueblo según la ley, es a saber, de sus hermanos, aunque  también ellos hayan salido de los lomos de Abraham."
+                },
+                {
+                    "verse": 6,
+                    "text": "Mas aquel, cuya genealogía no es contada entre ellos, tomó diezmos de Abraham, y bendijo al que tenía las promesas."
+                },
+                {
+                    "verse": 7,
+                    "text": "Y sin contradicción alguna lo que es menos es bendito de lo que es mejor."
+                },
+                {
+                    "verse": 8,
+                    "text": "Y aquí ciertamente los hombres mortales toman los diezmos; mas allí, aquel del cual está dado testimonio, que vive."
+                },
+                {
+                    "verse": 9,
+                    "text": "Y (por decirlo así) en Abraham fue diezmado también el mismo Leví que recibe los diezmos;"
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque aun  Leví estaba en los lomos de  su padre, cuando Melquisedec salió al encuentro a Abraham."
+                },
+                {
+                    "verse": 11,
+                    "text": "Si pues la perfección era por el sacerdocio Levítico, (porque debajo de él recibió el pueblo la ley,) ¿qué necesidad había aun de que se levantase otro sacerdote según el orden de Melquisedec, y que no se dijese según el orden de Aarón?"
+                },
+                {
+                    "verse": 12,
+                    "text": "Luego traspasado el sacerdocio, necesario es que se haga también traspasamiento de la ley."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque  aquel de quien estas cosas se dicen, de otra tribu es, de la cual nadie asistió al altar."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque  es evidente que nuestro Señor nació de Judá, de cuya tribu nada habló Moisés, tocante al sacerdocio."
+                },
+                {
+                    "verse": 15,
+                    "text": "Y aun mucho más evidente es; que, según la semejanza de Melquisedec, se levanta otro sacerdote:"
+                },
+                {
+                    "verse": 16,
+                    "text": "El cual no es hecho conforme a la ley del mandamiento carnal, sino según el poder de una vida indisoluble."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque él testifica,  diciendo: Tú  eres sacerdote para siempre según el orden de Melquisedec."
+                },
+                {
+                    "verse": 18,
+                    "text": "El mandamiento precedente cierto se abroga por su flaqueza e inutilidad."
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque nada perfeccionó la ley, sino la introducción de mejor esperanza, por la cual nos acercamos de Dios,"
+                },
+                {
+                    "verse": 20,
+                    "text": "Y  tanto más en cuanto no sin juramento  fue él hecho sacerdote;"
+                },
+                {
+                    "verse": 21,
+                    "text": "(Porque los otros cierto sin juramento fueron hechos sacerdotes; mas éste, con juramento por aquel que le dijo: Juró el Señor, y no se arrepentirá: Tú  eres sacerdote eternamente según el orden de Melquisedec:)"
+                },
+                {
+                    "verse": 22,
+                    "text": "Tanto de mejor concierto fue hecho prometedor Jesús."
+                },
+                {
+                    "verse": 23,
+                    "text": "Y los otros cierto fueron muchos sacerdotes, porque la muerte les impedía que continuasen;"
+                },
+                {
+                    "verse": 24,
+                    "text": "Mas éste, porque permanece eternamente, tiene el sacerdocio inmutable."
+                },
+                {
+                    "verse": 25,
+                    "text": "Por lo cual puede también salvar perpetuamente a los que por él se allegan a Dios, viviendo siempre para interceder por ellos;"
+                },
+                {
+                    "verse": 26,
+                    "text": "Porque tal sumo sacerdote nos convenía,  que fuese santo, inocente, libre de mancha, apartado de los pecadores, y hecho más sublime que los cielos."
+                },
+                {
+                    "verse": 27,
+                    "text": "Que no tuviese necesidad cada día, como los  otros sumos sacerdotes, de ofrecer sacrificios, primero por sus propios pecados, y luego por los del pueblo; porque esto  lo hizo una vez ofreciéndose a sí mismo."
+                },
+                {
+                    "verse": 28,
+                    "text": "Porque la ley constituye sumos sacerdotes a hombres que tienen flaqueza; mas la palabra del juramento, que fue después de la ley,  constituye al Hijo, que es perfecto eternamente."
+                }
+            ]
+        },
+        {
+            "chapter": 8,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Así que la suma de las cosas que habemos dicho  es esta: Que tenemos tal sumo sacerdote que se asentó a la diestra del trono de la Majestad en los cielos:"
+                },
+                {
+                    "verse": 2,
+                    "text": "Ministro del santuario, y del verdadero tabernáculo que el Señor asentó, y no hombre."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque todo sumo sacerdote es constituido para ofrecer dones y también sacrificios: por lo cual  fue necesario que éste también tuviese algo que ofrecer."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque si él estuviese sobre la tierra, ni aun sería sacerdote, habiendo aun los  otros sacerdotes que ofrecen los dones según la ley."
+                },
+                {
+                    "verse": 5,
+                    "text": "(Los cuales sirven por bosquejo y sombra de las cosas celestiales, como fue respondido a Moisés cuando había de comenzar a construir el tabernáculo: Mira, pues, dice, haz todas las cosas conforme al dechado que te ha sido mostrado en el monte.)"
+                },
+                {
+                    "verse": 6,
+                    "text": "Mas ahora él ha alcanzado un ministerio  tanto más excelente, cuanto que también él es el mediador de un mejor concierto, el cual ha sido establecido sobre mejores promesas."
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque si en aquel primer  concierto no hubiera falta, no se hubiera procurado lugar para un segundo."
+                },
+                {
+                    "verse": 8,
+                    "text": "Porque reprendiendo los dice: He aquí, vienen días, dice el Señor, y consumaré para con la casa de Israel, y para con la casa de Judá, un nuevo concierto:"
+                },
+                {
+                    "verse": 9,
+                    "text": "No según el concierto que hice con vuestros padres en el día que los tomé por la mano para sacarlos de la tierra de Egipto; porque ellos no permanecieron en mi concierto, y yo no me cuidé de ellos, dice el Señor."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque éste  es el concierto que haré con la casa de Israel después de aquellos días, dice el Señor: Daré mis leyes en la mente de ellos, y sobre el corazón de ellos las escribiré; y yo seré su Dios, y ellos serán mi pueblo:"
+                },
+                {
+                    "verse": 11,
+                    "text": "Y no enseñará cada uno a su conciudadano, ni cada uno a su hermano, diciendo: Conoce al Señor; porque todos me conocerán desde el menor de ellos hasta el mayor."
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque seré propicio a sus injusticias, y a sus pecados; y de sus iniquidades no me acordaré más."
+                },
+                {
+                    "verse": 13,
+                    "text": "Diciendo un nuevo  concierto, dio por viejo al primero; y lo que es dado por viejo y se envejece, cerca está de desvanecerse."
+                }
+            ]
+        },
+        {
+            "chapter": 9,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Tenía empero por cierto también el primer  concierto ordenanzas de culto, y santuario mundano."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque el tabernáculo fue hecho; el primero, en que  estaban el candelero, y también la mesa, y los panes de la proposición, el cual es llamado el  lugar santo."
+                },
+                {
+                    "verse": 3,
+                    "text": "Y detrás del segundo velo  estaba el tabernáculo llamado el  lugar santísimo,"
+                },
+                {
+                    "verse": 4,
+                    "text": "Que tenía el incensario de oro, y el arca del concierto cubierta de todas partes al rededor de oro: en que  estaba una urna de oro que tenía el maná, y la vara de Aarón que reverdeció, y las tablas del concierto;"
+                },
+                {
+                    "verse": 5,
+                    "text": "Y sobre ella los querubines de gloria haciendo sombra al propiciatorio: de las cuales cosas no podemos ahora hablar en particular."
+                },
+                {
+                    "verse": 6,
+                    "text": "Y estas cosas así ordenadas, en el primer tabernáculo siempre entraban los sacerdotes para cumplir las funciones del culto divino;"
+                },
+                {
+                    "verse": 7,
+                    "text": "Mas en el segundo, solo el sumo sacerdote  entraba una  sola vez en el año, no sin sangre, la cual ofrece por sus propios pecados de ignorancia, y  por los del pueblo:"
+                },
+                {
+                    "verse": 8,
+                    "text": "Dando a entender el Espíritu Santo esto, que todavía no estaba patente el camino para el  lugar santísimo, entre tanto que el primer tabernáculo estuviese aun en pie."
+                },
+                {
+                    "verse": 9,
+                    "text": "Lo cual  era figura para aquel tiempo presente, en el cual se ofrecían dones y también sacrificios, que no podían hacer perfecto al que daba culto, en cuanto a la conciencia;"
+                },
+                {
+                    "verse": 10,
+                    "text": " Que solamente  consistía en viandas, y en bebidas, y en diversos lavamientos, y justicias de la carne, impuestas hasta el tiempo de la corrección."
+                },
+                {
+                    "verse": 11,
+                    "text": "Mas estando ya presente Cristo, sumo sacerdote de los bienes que han de venir, por medio del mayor y más perfecto tabernáculo, no hecho de manos, es a saber, no de esta creación;"
+                },
+                {
+                    "verse": 12,
+                    "text": "Ni por la sangre de machos de cabrío, ni de becerros, mas por su propia sangre entró una vez en el santuario, habiendo obtenido redención eterna  para nosotros."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque si la sangre de los toros y de los machos de cabrío, y la ceniza de una becerra, rociada sobre los impuros,  los santifica para limpiamiento de la carne,"
+                },
+                {
+                    "verse": 14,
+                    "text": "¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, purgará vuestras conciencias de las obras muertas para que deis culto al Dios vivo?"
+                },
+                {
+                    "verse": 15,
+                    "text": "Y por esta razón él es el mediador del nuevo testamento, para que entreviniendo muerte para la redención de las transgresiones  que había debajo del primer testamento, los que son llamados reciban la promesa de la herencia eterna."
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque donde  hay testamento, necesario es que intervenga la muerte del testador."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque el testamento  es firme después de muertos: de otra manera no es válido entre tanto que el testador vive."
+                },
+                {
+                    "verse": 18,
+                    "text": "Así que ni aun el primero fue consagrado sin sangre."
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque habiendo leído Moisés todos los mandamientos de la ley a todo el pueblo, tomando la sangre de los becerros y de los machos de cabrío, con agua, y lana de grana, e hisopo, asperjó a todo el pueblo, y juntamente al mismo libro,"
+                },
+                {
+                    "verse": 20,
+                    "text": "Diciendo: Esta  es la sangre del testamento que Dios os ha mandado."
+                },
+                {
+                    "verse": 21,
+                    "text": "Y allende de esto, el tabernáculo también, y todos los vasos del ministerio asperjó con la sangre."
+                },
+                {
+                    "verse": 22,
+                    "text": "Y casi todas las cosas según la ley son purificadas con sangre; y sin derramamiento de sangre no hay remisión."
+                },
+                {
+                    "verse": 23,
+                    "text": "Así que necesario  fue que los dechados de las cosas celestiales fuesen purificados con estas cosas; empero las mismas cosas celestiales, con mejores sacrificios que estos."
+                },
+                {
+                    "verse": 24,
+                    "text": "Porque no entró Cristo en el santuario hecho de mano,  que es la figura del verdadero, mas en el mismo cielo, para presentarse ahora por nosotros en la presencia de Dios:"
+                },
+                {
+                    "verse": 25,
+                    "text": "No empero para ofrecerse muchas veces a sí mismo; (como entra el sumo sacerdote en el santuario cada un año con sangre ajena;)"
+                },
+                {
+                    "verse": 26,
+                    "text": "De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo."
+                },
+                {
+                    "verse": 27,
+                    "text": "Y de la manera que está establecido a los hombres que mueran una  sola vez; y después de esto, el juicio:"
+                },
+                {
+                    "verse": 28,
+                    "text": "Así también Cristo habiendo sido ofrecido una  sola vez para cargar con los pecados de muchos; la segunda vez aparecerá sin pecado a los que le aguardan para salud."
+                }
+            ]
+        },
+        {
+            "chapter": 10,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Porque la ley teniendo  solo la sombra de los bienes venideros,  y no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada un año, hacer perfectos a los que se allegan."
+                },
+                {
+                    "verse": 2,
+                    "text": "De otra manera habrían cesado de ser ofrecidos; porque los que dan culto, purificados una vez, no tendrían más conciencia de pecado."
+                },
+                {
+                    "verse": 3,
+                    "text": "Empero en estos  sacrificios cada año  se hace el mismo recordamiento de los pecados."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque  es imposible que la sangre de los toros y de los machos de cabrío quite los pecados."
+                },
+                {
+                    "verse": 5,
+                    "text": "Por lo cual entrando en el mundo, dice: Sacrificio y ofrenda no quisiste, mas a mí me apropriaste un cuerpo:"
+                },
+                {
+                    "verse": 6,
+                    "text": "Holocaustos y  expiaciones por el pecado no te agradaron."
+                },
+                {
+                    "verse": 7,
+                    "text": "Entonces dije: Héme aquí, (en la cabecera del libro está escrito de mí,) para que haga, oh Dios, tu voluntad."
+                },
+                {
+                    "verse": 8,
+                    "text": "Diciendo arriba: Sacrificio y ofrenda, y holocaustos, y  expiaciones por el pecado, no quisiste, ni te agradaron, las cuales  cosas se ofrecen según la ley:"
+                },
+                {
+                    "verse": 9,
+                    "text": "Entonces dijo: Héme aquí para que haga, oh Dios, tu voluntad. Quita lo primero, para establecer lo segundo."
+                },
+                {
+                    "verse": 10,
+                    "text": "Por la cual voluntad somos los santificados, por medio de la ofrenda del cuerpo de Jesu Cristo  hecha una  sola vez  para siempre."
+                },
+                {
+                    "verse": 11,
+                    "text": "Y ciertamente todo sacerdote está en pie cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados;"
+                },
+                {
+                    "verse": 12,
+                    "text": "Pero éste, habiendo ofrecido por los pecados un  solo sacrificio, está asentado para siempre a la diestra de Dios,"
+                },
+                {
+                    "verse": 13,
+                    "text": "Esperando lo que resta,  es a saber, hasta que sus enemigos sean puestos por escabelo de sus pies;"
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque con una sola ofrenda hizo consumados para siempre a los santificados."
+                },
+                {
+                    "verse": 15,
+                    "text": "Y el Espíritu Santo también nos  lo testifica: que después que dijo:"
+                },
+                {
+                    "verse": 16,
+                    "text": "Este  es el concierto que yo haré con ellos después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones y en sus mentes las escribiré;"
+                },
+                {
+                    "verse": 17,
+                    "text": "Y nunca más ya me acordaré de sus pecados e iniquidades."
+                },
+                {
+                    "verse": 18,
+                    "text": "Pues en donde  hay remisión de estos, no  hay ya más ofrenda por pecado."
+                },
+                {
+                    "verse": 19,
+                    "text": "¶ Así que, hermanos, teniendo libertad para entrar en el  lugar santísimo por la sangre de Jesu Cristo,"
+                },
+                {
+                    "verse": 20,
+                    "text": "Por un nuevo camino, y vivo, que él  mismo consagró para nosotros, por medio del velo, es a saber, por su carne;"
+                },
+                {
+                    "verse": 21,
+                    "text": "Y  teniendo un gran sacerdote sobre la casa de Dios;"
+                },
+                {
+                    "verse": 22,
+                    "text": "Acerquémosnos a  él con corazón verdadero, en cumplida certidumbre de fe, asperjados los corazones,  y limpios de mala conciencia, y lavados los cuerpos con agua pura,"
+                },
+                {
+                    "verse": 23,
+                    "text": "Retengamos firme la confesión de  nuestra esperanza, inmoble; (que fiel es el que ha prometido;)"
+                },
+                {
+                    "verse": 24,
+                    "text": "Y considerémosnos los unos a los otros para provocarnos a amor, y a buenas obras:"
+                },
+                {
+                    "verse": 25,
+                    "text": "No dejando nuestra congregación, como algunos tienen por costumbre, mas exhortándonos; y tanto más, cuanto veis que aquel día se acerca."
+                },
+                {
+                    "verse": 26,
+                    "text": "Porque si pecamos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda sacrificio por los pecados;"
+                },
+                {
+                    "verse": 27,
+                    "text": "Sino una horrenda expectación de juicio, y hervor de fuego que ha de devorar a los adversarios."
+                },
+                {
+                    "verse": 28,
+                    "text": "El que menospreciare la ley de Moisés, por el testimonio de dos o de tres testigos muere sin ninguna misericordia:"
+                },
+                {
+                    "verse": 29,
+                    "text": "¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del concierto con la cual fue santificado, y ultrajare al Espíritu de gracia?"
+                },
+                {
+                    "verse": 30,
+                    "text": "Porque sabemos  quién es el que dijo: Mía es la venganza, yo daré el pago, dice el Señor. Y otra vez: El Señor juzgará su pueblo."
+                },
+                {
+                    "verse": 31,
+                    "text": "Horrenda cosa  es caer en las manos del Dios vivo."
+                },
+                {
+                    "verse": 32,
+                    "text": "Traéd empero a la memoria los días primeros, en los cuales después de haber sido iluminados, sufristeis gran combate de aflicciones:"
+                },
+                {
+                    "verse": 33,
+                    "text": "De una parte, ciertamente, mientras fuisteis hechos el hazmereír tanto por oprobios como por tribulaciones; y de otra parte ínterin fuisteis hechos compañeros de los que de aquel modo eran tratados."
+                },
+                {
+                    "verse": 34,
+                    "text": "Porque os compadecisteis también de mí en mis cadenas, y aceptasteis con gozo la rapiña de vuestros bienes, conociendo que tenéis para vosotros mismos una mejor sustancia en los cielos, y que permanece."
+                },
+                {
+                    "verse": 35,
+                    "text": "No perdáis pues  esta vuestra confianza, que tiene grande remuneración de galardón;"
+                },
+                {
+                    "verse": 36,
+                    "text": "Porque la paciencia os es necesaria, para que, habiendo hecho la voluntad de Dios, recibáis la promesa."
+                },
+                {
+                    "verse": 37,
+                    "text": "Porque aun un poquito de tiempo, y el que ha de venir vendrá, y no tardará."
+                },
+                {
+                    "verse": 38,
+                    "text": "Mas el justo vivirá por fe; empero si se retirare, no se complacerá mi alma en él."
+                },
+                {
+                    "verse": 39,
+                    "text": "Mas nosotros no somos  de los de retiramiento para perdición, mas de fe para ganancia del alma."
+                }
+            ]
+        },
+        {
+            "chapter": 11,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Es pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque por esta alcanzaron  buen testimonio los antiguos."
+                },
+                {
+                    "verse": 3,
+                    "text": "Por fe entendemos haber sido compuestos los siglos por la palabra de Dios, de tal manera que las cosas que se ven no fueron hechas de cosas que aparecen."
+                },
+                {
+                    "verse": 4,
+                    "text": "Por fe Abel ofreció a Dios más excelente sacrificio que Caín, por la cual alcanzó testimonio de que era justo, dando Dios testimonio a sus dones; y por ella,  aunque difunto, aun habla."
+                },
+                {
+                    "verse": 5,
+                    "text": "Por fe Enoc fue trasladado para que no viese muerte; y no fue hallado, porque le había trasladado Dios; porque antes de su traslación tuvo testimonio de haber agradado a Dios."
+                },
+                {
+                    "verse": 6,
+                    "text": "Empero sin fe  es imposible agradar a  Dios; porque menester es que el que a Dios se allega, crea que le hay; y que es galardonador de los que le buscan."
+                },
+                {
+                    "verse": 7,
+                    "text": "Por fe Noé, habiendo recibido revelación de cosas que aun no se veían, movido de temor, aparejó el arca en que su casa se salvase; por la cual  arca condenó al mundo, y fue hecho heredero de la justicia que es por la fe."
+                },
+                {
+                    "verse": 8,
+                    "text": "Por fe, Abraham, siendo llamado, obedeció para salir al lugar que había de recibir por herencia; y salió sin saber donde iba."
+                },
+                {
+                    "verse": 9,
+                    "text": "Por fe habitó en la tierra de la promesa, como  en tierra ajena, morando en cabañas con Isaac, y Jacob, coherederos de la misma promesa;"
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque esperaba ciudad con  firmes fundamentos, el artífice y hacedor de la cual  es Dios."
+                },
+                {
+                    "verse": 11,
+                    "text": "Por fe también la misma Sara recibió fuerza para la concepción de simiente; y parió aun fuera del tiempo de la edad, porque creyó ser fiel él que  lo había prometido."
+                },
+                {
+                    "verse": 12,
+                    "text": "Por lo cual también de uno, y ese ya muerto  como muerto, salieron como las estrellas del cielo en multitud  los descendientes, y como la arena innumerable que está a la orilla de la mar."
+                },
+                {
+                    "verse": 13,
+                    "text": "¶ Conforme a la fe murieron todos estos sin haber recibido las promesas; sino mirándolas de lejos, y creyéndolas, y saludándolas, y confesando que eran peregrinos y advenedizos sobre la tierra."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque los que tales cosas dicen, claramente dan a entender que buscan la patria."
+                },
+                {
+                    "verse": 15,
+                    "text": "Que a la verdad, si se acordaran de aquella de donde salieron, oportunidad tenían para volverse:"
+                },
+                {
+                    "verse": 16,
+                    "text": "Empero ahora anhelan la mejor, es a saber, la celestial: por lo cual Dios no se avergüenza de llamarse Dios de ellos; porque les había aparejado ciudad."
+                },
+                {
+                    "verse": 17,
+                    "text": "Por fe ofreció Abraham a Isaac, cuando fue tentado; y ofrecía al unigénito en el cual había recibido las promesas:"
+                },
+                {
+                    "verse": 18,
+                    "text": "(Habiéndole sido dicho: En Isaac te será llamada simiente:)"
+                },
+                {
+                    "verse": 19,
+                    "text": "Pensando dentro de sí que aun de entre los muertos  es Dios poderoso para levantar lo: por lo cual también le volvió a recibir por figura."
+                },
+                {
+                    "verse": 20,
+                    "text": "Por fe, bendijo Isaac a Jacob y a Esaú acerca de las cosas que habían de venir."
+                },
+                {
+                    "verse": 21,
+                    "text": "Por fe, Jacob muriéndose bendijo a cada uno de los hijos de José; y adoró,  estribando sobre la punta de su bordón."
+                },
+                {
+                    "verse": 22,
+                    "text": "Por fe, José muriéndose se acordó de la partida de los hijos de Israel; y dio mandamiento acerca de sus huesos."
+                },
+                {
+                    "verse": 23,
+                    "text": "Por fe, Moisés nacido, fue escondido de sus padres por tres meses, porque le vieron hermoso niño; y no temieron el mandamiento del rey."
+                },
+                {
+                    "verse": 24,
+                    "text": "Por fe, Moisés hecho ya grande, rehusó de ser llamado hijo de la hija de Faraón,"
+                },
+                {
+                    "verse": 25,
+                    "text": "Escogiendo antes ser afligido con el pueblo de Dios, que gozar de comodidades temporales de pecado:"
+                },
+                {
+                    "verse": 26,
+                    "text": "Teniendo por mayores riquezas el vituperio de Cristo que los tesoros de los Egipcios; porque miraba a la remuneración."
+                },
+                {
+                    "verse": 27,
+                    "text": "Por fe dejó a Egipto no temiendo la ira del rey; porque como aquel que veía al invisible, se esforzó."
+                },
+                {
+                    "verse": 28,
+                    "text": "Por fe celebró la pascua, y el derramamiento de la sangre, para que el que mataba los primogénitos no los tocase."
+                },
+                {
+                    "verse": 29,
+                    "text": "Por fe pasaron el mar Bermejo como por la  tierra seca, lo cual probando a  hacer los Egipcios fueron consumidos."
+                },
+                {
+                    "verse": 30,
+                    "text": "Por fe cayeron los muros de Jericó con rodearlos siete días."
+                },
+                {
+                    "verse": 31,
+                    "text": "Por fe Raab la ramera no pereció con los incrédulos, habiendo recibido las espías con paz."
+                },
+                {
+                    "verse": 32,
+                    "text": "¿Y qué más diré? porque el tiempo me faltará, contando de Gedeón, y  de Barac, y  de Samsón, y  de Jepté;  de David también, y  de Samuel, y  de los profetas:"
+                },
+                {
+                    "verse": 33,
+                    "text": "Los cuales por fe sojuzgaron reinos, obraron justicia, alcanzaron  el fruto de las promesas, taparon las bocas a leones,"
+                },
+                {
+                    "verse": 34,
+                    "text": "Mataron el ímpetu del fuego, evitaron filo de cuchillo, convalecieron de enfermedades, fueron hechos fuertes en batallas, trastornaron campos de  enemigos extraños."
+                },
+                {
+                    "verse": 35,
+                    "text": "Las mujeres recibieron sus muertos por resurrección: unos fueron tormentados, no recibiendo redención por conseguir mejor resurrección."
+                },
+                {
+                    "verse": 36,
+                    "text": "Otros sufrieron escarnios y azotes; y allende de esto, cadenas y cárceles."
+                },
+                {
+                    "verse": 37,
+                    "text": " Otros fueron apedreados,  otros cortados en piezas,  otros tentados,  otros muertos a cuchillo:  otros anduvieron de acá para allá,  cubiertos de pieles de ovejas y de cabras, menesterosos, angustiados, maltratados:"
+                },
+                {
+                    "verse": 38,
+                    "text": "De los cuales el mundo no era digno: perdidos por los desiertos, por los montes, por las cuevas, y por las cavernas de la tierra."
+                },
+                {
+                    "verse": 39,
+                    "text": "Y todos estos, habiendo obtenido  un buen testimonio por medio de la fe, no recibieron  con todo eso la promesa:"
+                },
+                {
+                    "verse": 40,
+                    "text": "Habiendo Dios proveido alguna cosa mejor para nosotros, que no fuesen perfeccionados sin nosotros."
+                }
+            ]
+        },
+        {
+            "chapter": 12,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por tanto nosotros también teniendo puesta sobre nosotros una tan grande nube de testigos, desechando todo peso, y el pecado que  tan cómodamente nos cerca, corramos con paciencia la carrera que nos es propuesta,"
+                },
+                {
+                    "verse": 2,
+                    "text": "Puestos los ojos en el capitán y consumador de la fe, Jesús; el cual habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y se asentó a la diestra del trono de Dios."
+                },
+                {
+                    "verse": 3,
+                    "text": "Reducíd pues a vuestro pensamiento a aquel que sufrió tal contradicción de pecadores contra sí mismo, porque no os fatiguéis en vuestros ánimos desmayando:"
+                },
+                {
+                    "verse": 4,
+                    "text": " Que aun no habéis resistido hasta la sangre, combatiendo contra el pecado."
+                },
+                {
+                    "verse": 5,
+                    "text": "Y estáis ya olvidados de la exhortación que como con hijos habla con vosotros,  diciendo: Hijo mío, no menosprecies el castigo del Señor, ni desmayes cuando eres de él reprendido;"
+                },
+                {
+                    "verse": 6,
+                    "text": "Porque el Señor al que ama castiga, y azota a cualquiera que recibe por hijo."
+                },
+                {
+                    "verse": 7,
+                    "text": "Si sufrís el castigo, Dios se os presenta como a hijos; porque ¿qué hijo es aquel a quien el Padre no castiga?"
+                },
+                {
+                    "verse": 8,
+                    "text": "Empero si estáis fuera del castigo, del cual todos  los hijos han sido hechos participantes, luego adulterinos sois que no hijos:"
+                },
+                {
+                    "verse": 9,
+                    "text": "También tuvimos a la verdad por castigadores a los padres de nuestra carne, y  los reverenciábamos, ¿por qué no obedeceremos mucho mejor al Padre de los espíritus, y viviremos?"
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque aquellos a la verdad por pocos días  nos castigaban como a ellos les parecía; mas éste para lo que  nos es provechoso, a fin de que participemos de su santidad."
+                },
+                {
+                    "verse": 11,
+                    "text": "Es verdad que ningún castigo al presente parece ser  causa de gozo, sino de tristeza; empero después fruto quietísimo de justicia da a los que por él son ejercitados."
+                },
+                {
+                    "verse": 12,
+                    "text": "Por lo cual enhestád las manos cansadas, y las rodillas descoyuntadas;"
+                },
+                {
+                    "verse": 13,
+                    "text": "Y hacéd derechos pasos a vuestros pies, porque lo que es cojo no salga fuera de camino; sino antes bien sea sanado."
+                },
+                {
+                    "verse": 14,
+                    "text": "Seguíd la paz con todos; y la santidad, sin la cual nadie verá al Señor."
+                },
+                {
+                    "verse": 15,
+                    "text": "Mirando bien que ninguno se aparte de la gracia de Dios, que ninguna raíz de amargura brotando  os perturbe, y por ella muchos sean contaminados."
+                },
+                {
+                    "verse": 16,
+                    "text": "Que ninguno sea fornicario, o profano, como Esaú, que por una vianda vendió su primogenitura."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque ya sabéis que aun después deseando heredar la bendición, fue reprobado, que no halló lugar de arrepentimiento, aunque la procuró con lágrimas."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque no os habéis llegado al monte palpable y  que ardía con fuego, y al turbión, y a la oscuridad, y a la tempestad,"
+                },
+                {
+                    "verse": 19,
+                    "text": "Y al sonido de la trompeta, y a la voz de las palabras, la cual los que la oyeron rogaron que no se les hablase más;"
+                },
+                {
+                    "verse": 20,
+                    "text": "(Porque no podían tolerar lo que se mandaba:  Que si aun una bestia tocare al monte, será apedreada, o pasada con dardo:"
+                },
+                {
+                    "verse": 21,
+                    "text": "Y tan terrible cosa era lo que se veía,  que Moisés dijo: Estoy asombrado, y temblando.)"
+                },
+                {
+                    "verse": 22,
+                    "text": "Mas os habéis llegado al monte de Sión, y a la ciudad del Dios vivo, Jerusalem la celestial, y a la compañía de muchos millares de ángeles,"
+                },
+                {
+                    "verse": 23,
+                    "text": "A la congregación general e iglesia de los primogénitos que están tomados por lista en los cielos, y al Juez de todos, Dios, y a los espíritus de los justos  ya perfectos;"
+                },
+                {
+                    "verse": 24,
+                    "text": "Y a Jesús el mediador del nuevo concierto; y a la sangre del esparcimiento que habla cosas mejores que  la de Abel."
+                },
+                {
+                    "verse": 25,
+                    "text": "Mirád que no recuséis al que habla. Porque si aquellos no escaparon que recusaron al que hablaba en la tierra, mucho menos  escaparemos nosotros, si desechamos al que  nos habla desde los cielos:"
+                },
+                {
+                    "verse": 26,
+                    "text": "La voz del cual entonces conmovió la tierra; mas ahora ha prometido, diciendo: Aun una vez, y yo conmoveré no solamente la tierra, mas aun el cielo."
+                },
+                {
+                    "verse": 27,
+                    "text": "Y  en esto  que dice: Aun una vez, declara el quitamiento de las cosas movibles, como de cosas hechizas, para que queden las que son firmes."
+                },
+                {
+                    "verse": 28,
+                    "text": "Así que tomando el reino inmóvil, retengamos la gracia por la cual sirvamos a Dios, agradándole con reverencia y religioso temor."
+                },
+                {
+                    "verse": 29,
+                    "text": "Porque nuestro Dios  es fuego consumidor."
+                }
+            ]
+        },
+        {
+            "chapter": 13,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "El amor de la hermandad permanezca  entre vosotros."
+                },
+                {
+                    "verse": 2,
+                    "text": "De la hospitalidad no os olvidéis; porque por esta algunos hospedaron ángeles sin saberlo."
+                },
+                {
+                    "verse": 3,
+                    "text": "Acordáos de los que están en cadenas, como  si estuvieseis con ellos encadenados;  y de los trabajados, como siendo también vosotros mismos en el cuerpo."
+                },
+                {
+                    "verse": 4,
+                    "text": "Honorable  es en todos el matrimonio, y la cama sin mancha; mas a los fornicarios, y a los adúlteros juzgará Dios."
+                },
+                {
+                    "verse": 5,
+                    "text": " Sean las costumbres  vuestras sin avaricia, contentos de lo presente; porque él mismo ha dicho: No te dejaré, ni tampoco te desampararé:"
+                },
+                {
+                    "verse": 6,
+                    "text": "De tal manera que digamos confiadamente: El Señor  es mi ayudador: no temeré lo que me pueda hacer hombre."
+                },
+                {
+                    "verse": 7,
+                    "text": "Acordáos de vuestros pastores, que os han hablado la palabra de Dios: la fe de los cuales imitád, considerando cual haya sido la salida de su conversación."
+                },
+                {
+                    "verse": 8,
+                    "text": "Jesu Cristo el mismo ayer, y hoy, y por los siglos."
+                },
+                {
+                    "verse": 9,
+                    "text": "No seáis llevados de acá para allá por doctrinas diversas y extrañas; porque buena cosa  es que el corazón sea afirmado por la gracia, no por viandas, que nunca aprovecharon a los que anduvieron en ellas."
+                },
+                {
+                    "verse": 10,
+                    "text": "Tenemos un altar del cual no tienen facultad de comer los que sirven al tabernáculo."
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque de los animales, la sangre de los cuales es metida por el pecado en el santuario por el sumo sacerdote, los cuerpos son quemados fuera del real."
+                },
+                {
+                    "verse": 12,
+                    "text": "Por lo cual Jesús también, para santificar al pueblo por su propia sangre, padeció fuera de la puerta."
+                },
+                {
+                    "verse": 13,
+                    "text": "Salgamos pues a él fuera del real, llevando su baldón."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque no tenemos aquí ciudad permaneciente, mas buscamos la por venir."
+                },
+                {
+                    "verse": 15,
+                    "text": "Así que ofrezcamos por  medio de él a Dios siempre sacrificio de alabanza, es a saber, fruto de labios que confiesan a su nombre."
+                },
+                {
+                    "verse": 16,
+                    "text": "Empero del bien hacer, y de la comunicación no os olvidéis; porque de tales sacrificios se agrada Dios."
+                },
+                {
+                    "verse": 17,
+                    "text": "Obedecéd a vuestros pastores, y sujetáos a  ellos; porque ellos velan por vuestras almas, como aquellos que han de dar la cuenta; para que lo hagan con alegría, y no gimiendo; porque esto no os  es útil."
+                },
+                {
+                    "verse": 18,
+                    "text": "Orád por nosotros; porque confiamos que tenemos buena conciencia, deseando de comportarnos bien en todo."
+                },
+                {
+                    "verse": 19,
+                    "text": "Y más os ruego que lo hagáis así; para que  yo os sea más presto restituido."
+                },
+                {
+                    "verse": 20,
+                    "text": "Y el Dios de paz, que retrajo de entre los muertos a nuestro Señor Jesu Cristo, al gran Pastor de las ovejas, por la sangre del concierto eterno,"
+                },
+                {
+                    "verse": 21,
+                    "text": "Os haga aptos en toda obra buena para que hagáis su voluntad, haciendo él en vosotros lo que es agradable delante de él por Jesu Cristo: al cual  es gloria por siglos de siglos. Amén."
+                },
+                {
+                    "verse": 22,
+                    "text": "Ruégoos empero, hermanos, que suportéis  esta palabra de exhortación, porque os he escrito brevemente."
+                },
+                {
+                    "verse": 23,
+                    "text": "Sabéd que  nuestro hermano Timoteo es suelto, con el cual, si viniere más presto, he de veros."
+                },
+                {
+                    "verse": 24,
+                    "text": "Saludád a todos vuestros pastores, y a todos los santos. Los de Italia os saludan."
+                },
+                {
+                    "verse": 25,
+                    "text": "La gracia  sea con todos vosotros. Amén."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1818 @@
+{
+    "book": "Romanos",
+    "title": "La Epístola a los Romanos",
+    "chapters": [
+        {
+            "chapter": 1,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Pablo, siervo de Jesu Cristo, llamado a  ser apóstol, apartado para el evangelio de Dios,"
+                },
+                {
+                    "verse": 2,
+                    "text": "Que él había antes prometido, por sus profetas en las Santas Escrituras,"
+                },
+                {
+                    "verse": 3,
+                    "text": "De su Hijo Jesu Cristo, Señor nuestro, (el cual fue hecho de la simiente de David según la carne,"
+                },
+                {
+                    "verse": 4,
+                    "text": "Y fue declarado  ser el Hijo de Dios con poder, según el Espíritu de santidad, por la resurrección de los muertos;)"
+                },
+                {
+                    "verse": 5,
+                    "text": "Por el cual recibimos la gracia y el apostolado, para  hacer que se obedezca a la fe en todas las naciones, en su nombre:"
+                },
+                {
+                    "verse": 6,
+                    "text": "(Entre las cuales sois también vosotros los llamados de Jesu Cristo:)"
+                },
+                {
+                    "verse": 7,
+                    "text": "A todos los que estáis en Roma, amados de Dios, llamados a  ser santos: Gracia a vosotros y paz de Dios nuestro Padre, y del Señor Jesu Cristo."
+                },
+                {
+                    "verse": 8,
+                    "text": "Primeramente, doy gracias a mi Dios por Jesu Cristo acerca de todos vosotros, de que se habla de vuestra fe por todo el mundo."
+                },
+                {
+                    "verse": 9,
+                    "text": "Porque testigo me es Dios, al cual sirvo en mi espíritu en el evangelio de su Hijo, que sin cesar me acuerdo de vosotros siempre en mis oraciones;"
+                },
+                {
+                    "verse": 10,
+                    "text": "Rogando, si de algún modo ahora al fin haya de tener por la voluntad de Dios próspero viaje para venir a vosotros."
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque deseo en gran manera veros, para repartir con vosotros algún don espiritual, a fin de que seáis confirmados;"
+                },
+                {
+                    "verse": 12,
+                    "text": "Es a saber, para ser juntamente consolado con vosotros por la mutua fe, la vuestra y juntamente la mía."
+                },
+                {
+                    "verse": 13,
+                    "text": "Mas no quiero, hermanos, que ignoréis, que muchas veces me he propuesto de venir a vosotros, (empero hasta ahora he sido estorbado,) para tener también entre vosotros algún fruto, como entre los otros Gentiles."
+                },
+                {
+                    "verse": 14,
+                    "text": "A Griegos y a bárbaros, a sabios y a ignorantes soy deudor."
+                },
+                {
+                    "verse": 15,
+                    "text": "Así que, en cuanto está en mí, pronto estoy a anunciar el evangelio también a los que estáis en Roma."
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque no me avergüenzo del evangelio de Cristo; porque es poder de Dios para salvación a todo aquel que cree: al Judío primeramente, y también al Griego."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque en él la justicia de Dios se descubre de fe en fe, como está escrito: El justo vivirá por la fe."
+                },
+                {
+                    "verse": 18,
+                    "text": "¶ Porque se manifiesta la ira de Dios desde el cielo contra toda impiedad e injusticia de los hombres, que detienen la verdad con injusticia:"
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque lo que de Dios se puede conocer, en ellos es manifiesto; porque Dios se  lo ha manifestado."
+                },
+                {
+                    "verse": 20,
+                    "text": "Porque las cosas invisibles de él, entendidas son desde la creación del mundo, por medio de las cosas que son hechas, se ven claramente,  es a saber, su eterno poder y divinidad, para que queden sin excusa."
+                },
+                {
+                    "verse": 21,
+                    "text": "Porque habiendo conocido a Dios, no  le glorificaron como a Dios, ni  le dieron gracias: antes se desvanecieron en sus discursos, y el tonto corazón de ellos fue entenebrecido:"
+                },
+                {
+                    "verse": 22,
+                    "text": " Que diciéndose ser sabios, fueron hechos insensatos;"
+                },
+                {
+                    "verse": 23,
+                    "text": "Y trocaron la gloria del Dios incorruptible en semejanza de imagen de hombre corruptible, y de aves, y de animales de cuatro pies, y de reptiles."
+                },
+                {
+                    "verse": 24,
+                    "text": "Por lo cual Dios también los entregó a la inmundicia, según las concupiscencias de sus corazones, para que deshonrasen sus cuerpos entre sí:"
+                },
+                {
+                    "verse": 25,
+                    "text": "Que mudaron la verdad de Dios en mentira, y honraron y sirvieron a la criatura antes que al Creador, el cual es bendito por los siglos. Amén."
+                },
+                {
+                    "verse": 26,
+                    "text": "Por lo cual Dios los entregó a afectos vergonzosos; porque aun sus mujeres mudaron el natural uso, en el uso que es contra naturaleza."
+                },
+                {
+                    "verse": 27,
+                    "text": "Y asimismo, los varones, dejado el uso natural de la mujer, se encendieron en sus concupiscencias los unos con los otros, cometiendo torpezas varones con varones, y recibiendo en sí mismos la recompensa de su error que convino."
+                },
+                {
+                    "verse": 28,
+                    "text": "Y como a ellos no les pareció bien tener a Dios en  su conocimiento, Dios  también los entregó a un perverso entendimiento, para que hiciesen lo que no conviene;"
+                },
+                {
+                    "verse": 29,
+                    "text": "Atestados de toda iniquidad, de fornicación, de malicia, de avaricia, de maldad: llenos de envidia, de homicidios, de contiendas, de engaños, de malignidades:"
+                },
+                {
+                    "verse": 30,
+                    "text": "Murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes a  sus padres,"
+                },
+                {
+                    "verse": 31,
+                    "text": "Insensatos, desleales, sin afecto natural, implacables, sin misericordia:"
+                },
+                {
+                    "verse": 32,
+                    "text": "Los cuales, entendiendo la justicia de Dios, a  saber, que los que hacen tales cosas son dignos de muerte; no solamente las hacen, mas aun se complacen con los que las hacen."
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Por lo cual eres inexcusable, oh hombre, cualquiera que juzgas; porque en lo mismo que juzgas al otro, te condenas a ti mismo; porque lo mismo haces tú que juzgas a  los otros."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque sabemos que el juicio de Dios es según verdad contra los que hacen tales cosas."
+                },
+                {
+                    "verse": 3,
+                    "text": "¿Y piensas esto, oh hombre, que juzgas a los que hacen tales cosas, haciendo las mismas, que tú escaparás el juicio de Dios?"
+                },
+                {
+                    "verse": 4,
+                    "text": "¿O menosprecias las riquezas de su benignidad, y paciencia, y longanimidad: ignorando que la benignidad de Dios te guia a arrepentimiento?"
+                },
+                {
+                    "verse": 5,
+                    "text": "Antes, según tu dureza, y tu corazón impenitente, atesoras para ti mismo ira para el día de la ira, y de la manifestación del justo juicio de Dios;"
+                },
+                {
+                    "verse": 6,
+                    "text": "El cual pagará a cada uno conforme a sus obras:"
+                },
+                {
+                    "verse": 7,
+                    "text": "A los que perseverando en bien hacer, buscan gloria, y honra, e inmortalidad,  dará la vida eterna;"
+                },
+                {
+                    "verse": 8,
+                    "text": "Mas a los que son contenciosos, y que no obedecen a la verdad, antes obedecen a la injusticia, enojo, e ira."
+                },
+                {
+                    "verse": 9,
+                    "text": "Tribulación y angustia sobre toda alma de hombre que obra lo malo, del Judío primeramente, y también del Griego;"
+                },
+                {
+                    "verse": 10,
+                    "text": "Mas gloria, y honra, y paz a todo aquel que obra el bien, al Judío primeramente, y también al Griego:"
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque no hay acepción de personas  para con Dios."
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque todos los que sin ley pecaron, sin ley también perecerán; y todos los que en la ley pecaron, por la ley serán juzgados."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque no los que oyen la ley  son justos delante de Dios, mas los hacedores de la ley serán justificados."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque cuando los Gentiles que no tienen la ley, hacen naturalmente las cosas de la ley, los tales aunque no tengan la ley, a sí mismos son ley:"
+                },
+                {
+                    "verse": 15,
+                    "text": "Mostrando la obra de la ley escrita en sus corazones, dando testimonio juntamente sus conciencias; y acusándose mientras tanto, o también excusándose  sus pensamientos, unos con otros,"
+                },
+                {
+                    "verse": 16,
+                    "text": "En el día que juzgará el Señor los secretos de los hombres conforme a mi evangelio, por Jesu Cristo."
+                },
+                {
+                    "verse": 17,
+                    "text": "He aquí, tú te llamas por sobrenombre Judío, y estás reposado en la ley, y te glorías en Dios,"
+                },
+                {
+                    "verse": 18,
+                    "text": "Y sabes  su voluntad, y apruebas lo mejor, siendo instruido por la ley;"
+                },
+                {
+                    "verse": 19,
+                    "text": "Y te jactas  de que tú mismo eres guía de los ciegos, luz de los que están en tinieblas,"
+                },
+                {
+                    "verse": 20,
+                    "text": "Enseñador de los que no saben, maestro de niños, que tienes la forma de la ciencia y de la verdad en la ley."
+                },
+                {
+                    "verse": 21,
+                    "text": "Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo? Tú que predicas que no se ha de hurtar, ¿hurtas?"
+                },
+                {
+                    "verse": 22,
+                    "text": "Tú que dices que no se ha de adulterar, ¿adulteras? Tú que abominas los ídolos, ¿haces sacrilegio?"
+                },
+                {
+                    "verse": 23,
+                    "text": "Tú que te jactas de la ley, ¿por transgresión de la ley deshonras a Dios?"
+                },
+                {
+                    "verse": 24,
+                    "text": "Porque el nombre de Dios es blasfemado por causa de vosotros entre los Gentiles, como está escrito."
+                },
+                {
+                    "verse": 25,
+                    "text": "¶ Porque la circuncisión a la verdad aprovecha, si guardares la ley; mas si eres rebelde a la ley, tu circuncisión es hecha incircuncisión."
+                },
+                {
+                    "verse": 26,
+                    "text": "De manera que si el incircunciso guardare las justicias de la ley, ¿no será tenida su incircuncisión por circuncisión?"
+                },
+                {
+                    "verse": 27,
+                    "text": "Y lo que de su natural es incircunciso, si guardare la ley, ¿no te juzgará a ti, que por la letra y  por la circuncisión eres rebelde a la ley?"
+                },
+                {
+                    "verse": 28,
+                    "text": "Porque no es Judío el que lo es por de fuera, ni  es la circuncisión la que es por de fuera, en la carne;"
+                },
+                {
+                    "verse": 29,
+                    "text": "Mas el que lo es por de dentro Judío  es; y la circuncisión  es la del corazón, en el espíritu, no en la letra: la alabanza del cual no  es de los hombres, sino de Dios."
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "¿Qué, pues, tiene más el Judío? ¿o cuál  es el provecho de la circuncisión?"
+                },
+                {
+                    "verse": 2,
+                    "text": "Mucho en todas maneras. Lo primero  ciertamente, porque los oráculos de Dios les han sido confiados."
+                },
+                {
+                    "verse": 3,
+                    "text": "¿Porque qué  hay, si algunos de ellos han sido incrédulos? ¿La incredulidad de ellos habrá  por eso hecho vana la fe de Dios?"
+                },
+                {
+                    "verse": 4,
+                    "text": "En ninguna manera; antes, sea Dios veraz, y todo hombre mentiroso, como está escrito: Para que seas justificado en tus dichos, y venzas cuando fueres juzgado."
+                },
+                {
+                    "verse": 5,
+                    "text": "Mas si nuestra iniquidad encarece la justicia de Dios, ¿qué diremos? ¿ Será por eso injusto Dios que da castigo? (hablo como hombre.)"
+                },
+                {
+                    "verse": 6,
+                    "text": "En ninguna manera: de otro modo, ¿cómo juzgaría Dios el mundo?"
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque si la verdad de Dios con mi mentira creció a gloria suya, ¿por qué aun también soy yo juzgado como pecador?"
+                },
+                {
+                    "verse": 8,
+                    "text": "Y no, (como somos infamados, y como algunos aseguran, que nosotros decimos,) ¿Hagamos males para que vengan bienes? la condenación de los cuales es justa."
+                },
+                {
+                    "verse": 9,
+                    "text": "¶ ¿Pues qué? ¿Somos nosotros mejores  que ellos? En ninguna manera; porque ya hemos acusado a Judíos y a Gentiles, que todos están debajo de pecado,"
+                },
+                {
+                    "verse": 10,
+                    "text": "Como está escrito: No hay justo, ni aun  solo uno:"
+                },
+                {
+                    "verse": 11,
+                    "text": "No hay quien entienda, no hay quien busque a Dios."
+                },
+                {
+                    "verse": 12,
+                    "text": "Todos se apartaron del camino  de la justicia, a una se han hecho inútiles: no hay quien haga lo bueno, no hay ni aun uno  solo."
+                },
+                {
+                    "verse": 13,
+                    "text": "Sepulcro abierto  es su garganta: con sus lenguas tratan engañosamente: veneno de áspides  está debajo de sus labios:"
+                },
+                {
+                    "verse": 14,
+                    "text": "Cuya boca  está llena de maledicencia, y de amargura:"
+                },
+                {
+                    "verse": 15,
+                    "text": "Sus pies  son ligeros para derramar sangre:"
+                },
+                {
+                    "verse": 16,
+                    "text": "Quebrantamiento y desventura  hay en sus caminos:"
+                },
+                {
+                    "verse": 17,
+                    "text": "Y el camino de paz no conocieron:"
+                },
+                {
+                    "verse": 18,
+                    "text": "No hay temor de Dios delante de sus ojos."
+                },
+                {
+                    "verse": 19,
+                    "text": "¶ Empero ya sabemos, que todo lo que la ley dice, a los que están bajo la ley  lo dice; para que toda boca se tape, y que todo el mundo se tenga por reo delante de Dios:"
+                },
+                {
+                    "verse": 20,
+                    "text": "Por tanto, por las obras de la ley ninguna carne se justificará delante de él; porque por la ley  es el conocimiento del pecado."
+                },
+                {
+                    "verse": 21,
+                    "text": "¶ Empero ahora, la justicia de Dios sin la ley se ha manifestado, testificada por la ley, y por los profetas:"
+                },
+                {
+                    "verse": 22,
+                    "text": "La justicia,  digo, de Dios,  que es por la fe de Jesu Cristo, para todos, y sobre todos los que creen en él; porque no hay diferencia;"
+                },
+                {
+                    "verse": 23,
+                    "text": "Por cuanto todos pecaron, y están destituidos de la gloria de Dios."
+                },
+                {
+                    "verse": 24,
+                    "text": "Siendo justificados gratuitamente por su gracia, por la redención que es en Jesu Cristo."
+                },
+                {
+                    "verse": 25,
+                    "text": "Al cual Dios ha propuesto por aplacamiento por la fe en su sangre, para manifestación de su justicia por la remisión de los pecados pasados, en la paciencia de Dios;"
+                },
+                {
+                    "verse": 26,
+                    "text": "Para manifestación de su justicia en este tiempo; para que él sea justo, y justificador del que cree en Jesús."
+                },
+                {
+                    "verse": 27,
+                    "text": "¿Dónde, pues,  está la jactancia? Es echada fuera. ¿Por cuál ley? ¿De las obras? No: sino por la ley de la fe."
+                },
+                {
+                    "verse": 28,
+                    "text": "Así que, concluimos ser el hombre justificado por fe sin las obras de la ley."
+                },
+                {
+                    "verse": 29,
+                    "text": "¿ Es Dios solamente  Dios de los Judíos? ¿No es también  Dios de los Gentiles? Cierto,  él es también  Dios de los Gentiles."
+                },
+                {
+                    "verse": 30,
+                    "text": "Porque un Dios  es de todos, el cual justificará de la fe la circuncisión, y por la fe a la incircuncisión."
+                },
+                {
+                    "verse": 31,
+                    "text": "¿Luego deshacemos la ley por la fe? En ninguna manera: antes establecemos la ley."
+                }
+            ]
+        },
+        {
+            "chapter": 4,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "¿Qué, pues, diremos que halló Abraham nuestro padre según la carne?"
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque si Abraham fue justificado por las obras, tiene de que gloriarse; mas no delante de Dios."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque, ¿qué dice la Escritura?  Y creyó Abraham a Dios, y le fue imputado a justicia."
+                },
+                {
+                    "verse": 4,
+                    "text": "Empero al que obra, no se le cuenta la recompensa por gracia, sino por deuda."
+                },
+                {
+                    "verse": 5,
+                    "text": "Mas al que no obra, sino cree en aquel que justifica al impío, su fe le es contada por justicia."
+                },
+                {
+                    "verse": 6,
+                    "text": "Como también David describe la bienaventuranza del hombre, al cual Dios imputa justicia sin las obras,"
+                },
+                {
+                    "verse": 7,
+                    "text": " Diciendo: Bienaventurados aquellos, cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos."
+                },
+                {
+                    "verse": 8,
+                    "text": "Bienaventurado el varón al cual el Señor no imputará pecado."
+                },
+                {
+                    "verse": 9,
+                    "text": "¿Esta bienaventuranza pues  viene solamente sobre la circuncisión, o también sobre la incircuncisión? porque decimos que a Abraham fue contada la fe por justicia."
+                },
+                {
+                    "verse": 10,
+                    "text": "¿Cómo pues  le fue contada? ¿estando él en  la circuncisión o en  la incircuncisión? no en la circuncisión, sino en la incircuncisión."
+                },
+                {
+                    "verse": 11,
+                    "text": "¶ Y recibió el signo de la circuncisión,  por sello de la justicia de la fe que  tuvo siendo  aun incircunciso; para que fuese padre de todos los creyentes, aunque no sean circuncidados; para que también a ellos les sea contado por justicia:"
+                },
+                {
+                    "verse": 12,
+                    "text": "Y padre de la circuncisión, a los que no solamente son de la circuncisión, mas también siguen las pisadas de la fe de nuestro padre Abraham,  que tenía antes de ser circuncidado."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque no por la ley fue  dada la promesa a Abraham, o a su simiente, que sería heredero del mundo, sino por la justicia de la fe."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque si los de la ley,  son los herederos, hecha vana es la fe; y anulada es la promesa."
+                },
+                {
+                    "verse": 15,
+                    "text": "Por cuanto la ley obra ira; porque donde no hay ley, allí tampoco  hay transgresión."
+                },
+                {
+                    "verse": 16,
+                    "text": "¶ Por tanto  es por la fe, para que  sea por gracia; a fin de que la promesa sea firme a toda la simiente,  es a saber, no solamente al que es de la ley, mas también al que es de la fe de Abraham: el cual es padre de todos nosotros,"
+                },
+                {
+                    "verse": 17,
+                    "text": "(Como está escrito: Por padre de muchas naciones te he puesto, delante de Dios, a quien creyó: el cual da vida a los muertos, y llama las cosas que no son, como si fuesen.)"
+                },
+                {
+                    "verse": 18,
+                    "text": "El cual creyó en esperanza contra esperanza, para ser hecho padre de muchas naciones, conforme a lo que  le había sido dicho: Así será tu simiente."
+                },
+                {
+                    "verse": 19,
+                    "text": "Y no siendo débil en fe, no consideró su cuerpo ya muerto, (siendo ya de casi cien años,) ni la matriz muerta de Sara."
+                },
+                {
+                    "verse": 20,
+                    "text": "Tampoco en la promesa de Dios dudó con desconfianza: antes fue esforzado en fe, dando gloria a Dios:"
+                },
+                {
+                    "verse": 21,
+                    "text": "Enteramente persuadido que todo lo que había prometido, era también poderoso para hacerlo."
+                },
+                {
+                    "verse": 22,
+                    "text": "Y por tanto le fue imputado a justicia."
+                },
+                {
+                    "verse": 23,
+                    "text": "Y no está escrito  esto solamente por causa de él, que le haya sido  así contado;"
+                },
+                {
+                    "verse": 24,
+                    "text": "Sino también por nosotros, a quienes será  así contado, a los que creemos en el que levantó de los muertos a Jesús, Señor nuestro:"
+                },
+                {
+                    "verse": 25,
+                    "text": "El cual fue entregado por nuestros delitos, y resucitado para nuestra justificación."
+                }
+            ]
+        },
+        {
+            "chapter": 5,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Justificados pues por la fe, tenemos paz para con Dios por nuestro Señor Jesu Cristo:"
+                },
+                {
+                    "verse": 2,
+                    "text": "Por el cual también tenemos entrada por la fe en esta gracia, en la cual estamos  firmes, y nos gloriamos en la esperanza de la gloria de Dios."
+                },
+                {
+                    "verse": 3,
+                    "text": "Y no solo  esto, mas aun nos gloriamos en las tribulaciones, sabiendo que la tribulación obra paciencia;"
+                },
+                {
+                    "verse": 4,
+                    "text": "Y la paciencia, experiencia; y la experiencia, esperanza;"
+                },
+                {
+                    "verse": 5,
+                    "text": "Y la esperanza no  nos avergüenza; porque el amor de Dios está derramado en nuestros corazones por el Espíritu Santo, que nos es dado."
+                },
+                {
+                    "verse": 6,
+                    "text": "Porque Cristo, cuando éramos aun sin fuerza, a su tiempo murió por los impíos."
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque apenas morirá alguno por un justo; aunque quizá por uno bueno  podrá ser que alguno aun osare morir."
+                },
+                {
+                    "verse": 8,
+                    "text": "Mas Dios encarece su amor para con nosotros, en que siendo aun pecadores, Cristo murió por nosotros."
+                },
+                {
+                    "verse": 9,
+                    "text": "Luego mucho más, ahora justificados en su sangre, por él seremos salvos de la ira."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque si siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más,  ya reconciliados, seremos salvos por su vida."
+                },
+                {
+                    "verse": 11,
+                    "text": "Y no solo esto, mas aun nos gloriamos en Dios por nuestro Señor Jesu Cristo, por el cual hemos ahora recibido la reconciliación."
+                },
+                {
+                    "verse": 12,
+                    "text": "¶ Por tanto, de la manera que el pecado entró en el mundo por un hombre, y por el pecado la muerte; y la muerte así pasó a todos los hombres porque todos pecaron;"
+                },
+                {
+                    "verse": 13,
+                    "text": "(Porque hasta la ley el pecado estaba en el mundo; mas el pecado no es imputado, no habiendo ley."
+                },
+                {
+                    "verse": 14,
+                    "text": "Mas reinó la muerte desde Adam hasta Moisés, aun sobre los que no pecaron a la manera de la rebelión de Adam, el cual es figura del que había de venir."
+                },
+                {
+                    "verse": 15,
+                    "text": "Mas no como el delito, así también  fue el don gratuito; porque si por el delito de uno murieron muchos, mucho más la gracia de Dios, y el don por la gracia  que es de un  solo hombre, Jesu Cristo, abundó para muchos."
+                },
+                {
+                    "verse": 16,
+                    "text": "Ni tampoco de la manera que  fue por uno que pecó,  así también el don; porque el juicio a la verdad  fue de un  pecado para condenación, mas el don gratuito  es de muchos delitos para justificación."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque si por el delito de uno reinó la muerte por  causa de uno, mucho más los que reciben la abundancia de la gracia, y del don de la justicia reinarán en vida por uno  solo, Jesu Cristo.)"
+                },
+                {
+                    "verse": 18,
+                    "text": "Así que, de la manera que por el delito de uno  vino la culpa a todos los hombres para condenación, así por la justicia de uno  vino la gracia a todos los hombres para justificación de vida."
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque como por la desobediencia de un hombre muchos fueron hechos pecadores, así por la obediencia de uno muchos serán hechos justos."
+                },
+                {
+                    "verse": 20,
+                    "text": "La ley empero entró para que el pecado abundase; mas cuando el pecado abundó, sobreabundó la gracia;"
+                },
+                {
+                    "verse": 21,
+                    "text": "Para que de la manera que el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna, por Jesu Cristo Señor nuestro."
+                }
+            ]
+        },
+        {
+            "chapter": 6,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "¿Pues qué diremos? ¿Perseveraremos en el pecado, para que la gracia abunde?"
+                },
+                {
+                    "verse": 2,
+                    "text": "En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aun en él?"
+                },
+                {
+                    "verse": 3,
+                    "text": "¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?"
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque somos sepultados  juntamente con él en la muerte por el bautismo, para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida."
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque si fuimos plantados juntamente  con él en la semejanza de su muerte, también  lo seremos  juntamente en la semejanza de  su resurrección:"
+                },
+                {
+                    "verse": 6,
+                    "text": "Sabiendo esto, que nuestro viejo hombre fue crucificado  juntamente con  él, para que el cuerpo del pecado sea deshecho, a fin de que no sirvamos más al pecado."
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque el que está muerto, justificado es del pecado."
+                },
+                {
+                    "verse": 8,
+                    "text": "Y si morimos con Cristo, creemos que también viviremos con él:"
+                },
+                {
+                    "verse": 9,
+                    "text": "Ciertos que Cristo habiendo resucitado de los muertos, ya no muere: la muerte no se enseñoreará más de él."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque, en cuanto al morir, al pecado murió una vez; mas en cuanto al vivir, para Dios vive."
+                },
+                {
+                    "verse": 11,
+                    "text": "Así también vosotros, juzgád que vosotros de cierto estáis muertos al pecado; mas que vivís para Dios en Cristo Jesús Señor nuestro."
+                },
+                {
+                    "verse": 12,
+                    "text": "No reine pues el pecado en vuestro cuerpo mortal, para que le obedezcáis en sus concupiscencias."
+                },
+                {
+                    "verse": 13,
+                    "text": "Ni tampoco presentéis vuestros miembros al pecado  como instrumentos de iniquidad: antes presentáos a Dios como vivientes de  entre los muertos; y vuestros miembros a Dios  como instrumentos de justicia."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque el pecado no se enseñoreará de vosotros; porque no estáis debajo de la ley, sino debajo de la gracia."
+                },
+                {
+                    "verse": 15,
+                    "text": "¶ ¿Pues qué? ¿Pecaremos, porque no estamos debajo de la ley, sino debajo de la gracia? En ninguna manera."
+                },
+                {
+                    "verse": 16,
+                    "text": "¿O no sabéis, que a quien os presentasteis vosotros mismos por siervos para obedecer le, sois siervos de aquel a quien obedecéis, o del pecado para muerte, o de la obediencia para justicia?"
+                },
+                {
+                    "verse": 17,
+                    "text": "Gracias a Dios, que fuisteis siervos del pecado; mas habéis obedecido de corazón a la forma de doctrina a la cual habéis sido entregados:"
+                },
+                {
+                    "verse": 18,
+                    "text": "Y libertados del pecado, sois hechos siervos de la justicia."
+                },
+                {
+                    "verse": 19,
+                    "text": "Hablo humanamente a causa de la flaqueza de vuestra carne: que como presentasteis vuestros miembros por siervos de la inmundicia y de la iniquidad para iniquidad; así ahora presentéis vuestros miembros por siervos de la justicia para santidad."
+                },
+                {
+                    "verse": 20,
+                    "text": "Porque cuando fuisteis siervos del pecado, libres eráis de la justicia."
+                },
+                {
+                    "verse": 21,
+                    "text": "¿Qué fruto teníais entonces de aquellas cosas, de las cuales ahora os avergonzáis? porque el fin de ellas  es la muerte."
+                },
+                {
+                    "verse": 22,
+                    "text": "Mas ahora librados del pecado, y hechos siervos de Dios, tenéis por vuestro fruto la santidad, y por fin la vida eterna."
+                },
+                {
+                    "verse": 23,
+                    "text": "Porque el salario del pecado  es la muerte: mas el don  gratuito de Dios  es la vida eterna en Cristo Jesús Señor nuestro."
+                }
+            ]
+        },
+        {
+            "chapter": 7,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "¿O ignoráis, hermanos, (pues hablo con los que saben la ley,) que la ley  solamente se enseñorea del hombre entre tanto que vive?"
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque la mujer que está sujeta a marido, mientras él vive, está ligada a  su marido por la ley; mas muerto el marido, ella está libre de la ley del marido."
+                },
+                {
+                    "verse": 3,
+                    "text": "Así que viviendo el marido se llamará adúltera, si fuere de otro varón; mas si su marido hubiese muerto, está libre de la ley, de tal manera que no será adúltera, si fuere de otro marido."
+                },
+                {
+                    "verse": 4,
+                    "text": "Así también vosotros, hermanos míos, estáis muertos a la ley por el cuerpo de Cristo, para que seáis de otro esposo,  es a saber, del que resucitó de los muertos, para que llevemos fruto a Dios."
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque mientras estábamos en la carne, los afectos del pecado que eran por la ley, obraban en nuestros miembros para llevar fruto a la muerte:"
+                },
+                {
+                    "verse": 6,
+                    "text": "Mas ahora estamos libres de la ley, habiendo muerto a aquello en que nos detenía presos, para que sirvamos en novedad de espíritu, y no  en vejez de la letra."
+                },
+                {
+                    "verse": 7,
+                    "text": "¶ ¿Qué pues diremos? ¿La ley  es pecado? En ninguna manera. Antes yo no conociera al pecado, sino por la ley; porque no conociera la concupiscencia, si la ley no dijera: No codiciarás."
+                },
+                {
+                    "verse": 8,
+                    "text": "Empero el pecado, tomando ocasión por el mandamiento, obró en mí toda suerte de concupiscencia; porque sin la ley el pecado  estaba muerto."
+                },
+                {
+                    "verse": 9,
+                    "text": "Así que, yo sin la ley vivía en algún tiempo; mas venido el mandamiento, el pecado revivió, y yo morí."
+                },
+                {
+                    "verse": 10,
+                    "text": "Y hallé  que el mandamiento, que  de suyo era para vida, a  mí era para muerte."
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque el pecado, tomando ocasión por el mandamiento, me engañó, y por él  me mató."
+                },
+                {
+                    "verse": 12,
+                    "text": "De manera que la ley a la verdad  es santa, y el mandamiento santo, y justo, y bueno."
+                },
+                {
+                    "verse": 13,
+                    "text": "¿Luego lo que es bueno, para mí me es hecho muerte? No, sino que el pecado, para mostrarse pecado, por lo bueno me obró la muerte; para que, por el mandamiento, el pecado se hiciese sobre manera pecaminoso."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque  ya sabemos que la ley es espiritual; mas yo soy carnal, vendido debajo del pecado."
+                },
+                {
+                    "verse": 15,
+                    "text": "Porque lo que hago, no  lo apruebo, pues el  bien que quiero, no hago; antes lo que aborrezco, aquello hago."
+                },
+                {
+                    "verse": 16,
+                    "text": "Y si lo que no quiero, esto hago, consiento que la ley  es buena."
+                },
+                {
+                    "verse": 17,
+                    "text": "De manera que ya no obro yo aquello, sino el pecado que mora en mí."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque yo sé que en mí, es a saber, en mi carne, no mora cosa buena; porque tengo el querer; mas obrar lo bueno, no lo alcanzo."
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque no hago el bien que quiero; mas el mal que no quiero, esto hago."
+                },
+                {
+                    "verse": 20,
+                    "text": "Y si hago lo que no quiero, ya no lo obro yo, sino el pecado que mora en mí."
+                },
+                {
+                    "verse": 21,
+                    "text": "Así que,  en queriendo yo hacer el bien, hallo  esta ley; que el mal habita conmigo."
+                },
+                {
+                    "verse": 22,
+                    "text": "Porque según el hombre interior me deleito en la ley de Dios;"
+                },
+                {
+                    "verse": 23,
+                    "text": "Mas veo otra ley en mis miembros rebelándose contra la ley de mi espíritu, y llevándome cautivo a la ley del pecado que está en mis miembros."
+                },
+                {
+                    "verse": 24,
+                    "text": "¡Miserable hombre de mí! ¿quién me librará del cuerpo de esta muerte?"
+                },
+                {
+                    "verse": 25,
+                    "text": "Gracias doy a Dios por Jesu Cristo Señor nuestro. Así que, yo mismo con el espíritu sirvo a la ley de Dios, mas con la carne a la ley del pecado."
+                }
+            ]
+        },
+        {
+            "chapter": 8,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Así que ahora, ninguna condenación  hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque lo que era imposible a la ley, en cuanto era débil por la carne, Dios enviando a su Hijo en semejanza de la carne del pecado, y por pecado, condenó al pecado en la carne;"
+                },
+                {
+                    "verse": 4,
+                    "text": "Para que la justicia de la ley fuese cumplida en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu."
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque los que son según la carne, piensan en las cosas que son de la carne; mas los que son según el Espíritu, en las cosas que son del Espíritu."
+                },
+                {
+                    "verse": 6,
+                    "text": "Porque el ánimo carnal  es muerte; mas el ánimo espiritual, vida y paz;"
+                },
+                {
+                    "verse": 7,
+                    "text": "Por cuanto el ánimo carnal  es enemistad contra Dios; porque no se sujeta a la ley de Dios, ni tan tampoco puede."
+                },
+                {
+                    "verse": 8,
+                    "text": "Así que, los que son según la carne, no pueden agradar a Dios."
+                },
+                {
+                    "verse": 9,
+                    "text": "Mas vosotros no sois según la carne, sino según el Espíritu: si es que el Espíritu de Dios mora en vosotros. Y si alguno no tiene el Espíritu de Cristo, el tal no es de él."
+                },
+                {
+                    "verse": 10,
+                    "text": "Empero si Cristo  es en vosotros, el cuerpo a la verdad  está muerto a causa del pecado; mas el Espíritu vive a causa de la justicia."
+                },
+                {
+                    "verse": 11,
+                    "text": "Y si el Espíritu de aquel que levantó de los muertos a Jesús, mora en vosotros, el que levantó a Cristo de los muertos, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros."
+                },
+                {
+                    "verse": 12,
+                    "text": "Así que, hermanos, deudores somos, no a la carne para que vivamos conforme a la carne."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque si viviereis conforme a la carne, moriréis; mas si por el Espíritu mortificareis las obras de la carne, viviréis."
+                },
+                {
+                    "verse": 14,
+                    "text": "Porque todos los que son guiados por el Espíritu de Dios, los tales son hijos de Dios."
+                },
+                {
+                    "verse": 15,
+                    "text": "Porque no habéis recibido el espíritu de servidumbre para  estar otra vez en temor; mas habéis recibido el Espíritu de adopción, por el cual clamamos: Abba, Padre."
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque el mismo Espíritu da testimonio a nuestro espíritu que somos hijos de Dios."
+                },
+                {
+                    "verse": 17,
+                    "text": "Y si hijos, también herederos: herederos de Dios, y coherederos con Cristo: si empero padecemos  juntamente con  él, para que juntamente  con él seamos también glorificados."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque yo juzgo, que lo que en este tiempo se padece, no  es digno  de compararse con la gloria venidera que en nosotros ha de ser manifestada."
+                },
+                {
+                    "verse": 19,
+                    "text": "¶ Porque el continuo atalayar de la criatura espera la manifestación de los hijos de Dios;"
+                },
+                {
+                    "verse": 20,
+                    "text": "Porque la criatura fue sujetada a vanidad, no de su voluntad, sino por causa de aquel que la sujetó con esperanza."
+                },
+                {
+                    "verse": 21,
+                    "text": "De que también la misma criatura será librada de la servidumbre de corrupción, en la libertad gloriosa de los hijos de Dios."
+                },
+                {
+                    "verse": 22,
+                    "text": "Porque  ya sabemos, que toda la creación gime a una, y a una está en dolores de parto hasta ahora."
+                },
+                {
+                    "verse": 23,
+                    "text": "Y no solo  ella, mas también nosotros mismos que tenemos las primicias del Espíritu, nosotros también gemimos dentro de nosotros mismos, esperando la adopción,  es a saber, la redención de nuestro cuerpo."
+                },
+                {
+                    "verse": 24,
+                    "text": "Porque en esperanza somos salvos: empero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿cómo aun lo espera?"
+                },
+                {
+                    "verse": 25,
+                    "text": "Mas si lo que no vemos esperamos, por paciencia  lo esperamos."
+                },
+                {
+                    "verse": 26,
+                    "text": "Y asimismo también el Espíritu a una ayuda nuestra flaqueza; porque no sabemos lo que hemos de pedir como conviene; mas el mismo Espíritu intercede por nosotros con gemidos indecibles."
+                },
+                {
+                    "verse": 27,
+                    "text": "Mas el que escudriña los corazones, sabe cual  es el deseo del Espíritu, porque conforme a  la voluntad de Dios intercede por los santos."
+                },
+                {
+                    "verse": 28,
+                    "text": "Y sabemos, que todas las cosas obran juntamente para el bien de los que a Dios aman,  es a saber, a los que conforme a  su propósito son llamados."
+                },
+                {
+                    "verse": 29,
+                    "text": "Porque a los que antes conoció, también predestinó  para que fuesen hechos conformes a la imagen de su Hijo, para que él sea el primogénito entre muchos hermanos."
+                },
+                {
+                    "verse": 30,
+                    "text": "Y a los que predestinó, a estos también llamó; y a los que llamó, a estos también justificó; y a los que justificó, a estos también glorificó."
+                },
+                {
+                    "verse": 31,
+                    "text": "¿Qué, pues, diremos a estas cosas? Si Dios  es por nosotros, ¿quién  será contra nosotros?"
+                },
+                {
+                    "verse": 32,
+                    "text": "El que aun a su propio Hijo no perdonó, antes le entregó por todos nosotros, ¿cómo no nos ha de dar también con él gratuitamente todas las cosas?"
+                },
+                {
+                    "verse": 33,
+                    "text": "¿Quién acusará contra los escogidos de Dios? Dios  es el que  los justifica."
+                },
+                {
+                    "verse": 34,
+                    "text": "¿Quién  es el que  los condena? Cristo  es el que murió: antes el que también resucitó, el que también está a la diestra de Dios, el que también demanda por nosotros."
+                },
+                {
+                    "verse": 35,
+                    "text": "¿Quién nos apartará del amor de Cristo? ¿Tribulación? ¿o angustia? ¿o persecución? ¿o hambre? ¿o desnudez? ¿o peligro? ¿o espada?"
+                },
+                {
+                    "verse": 36,
+                    "text": "(Como está escrito: Por causa de ti somos muertos todos los días: somos estimados como ovejas para el matadero:)"
+                },
+                {
+                    "verse": 37,
+                    "text": "Antes en todas estas cosas vencemos, y aun más, por aquel que nos amó."
+                },
+                {
+                    "verse": 38,
+                    "text": "Por que estoy cierto que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir,"
+                },
+                {
+                    "verse": 39,
+                    "text": "Ni lo alto, ni lo bajo, ni ninguna otra criatura nos podrá apartar del amor de Dios, que es en Cristo Jesús, Señor nuestro."
+                }
+            ]
+        },
+        {
+            "chapter": 9,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Verdad digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo:"
+                },
+                {
+                    "verse": 2,
+                    "text": "Que tengo gran tristeza, y continuo dolor en mi corazón."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque deseara yo mismo ser anatema de Cristo por causa de mis hermanos, los que son mis parientes según la carne:"
+                },
+                {
+                    "verse": 4,
+                    "text": "Que son Israelitas, de los cuales  es la adopción, y la gloria, y los conciertos, y la ley dada, y el culto, y las promesas;"
+                },
+                {
+                    "verse": 5,
+                    "text": "Cuyos  son los padres, y de los cuales  vino Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén."
+                },
+                {
+                    "verse": 6,
+                    "text": "No empero que la palabra de Dios haya faltado; porque no todos los que son de Israel  son Israelitas:"
+                },
+                {
+                    "verse": 7,
+                    "text": "Ni por ser simiente de Abraham  luego son todos hijos; mas: En Isaac te será llamada simiente."
+                },
+                {
+                    "verse": 8,
+                    "text": "Quiere decir: No los que son hijos de la carne, estos  son los hijos de Dios; mas los que  son hijos de la promesa,  estos son contados en la generación."
+                },
+                {
+                    "verse": 9,
+                    "text": "Porque la palabra de la promesa  es esta: Como en este tiempo vendré; y tendrá Sara un hijo."
+                },
+                {
+                    "verse": 10,
+                    "text": "Y no solo  esta, mas también Rebeca concibiendo de una vez, a  saber, de Isaac nuestro padre;"
+                },
+                {
+                    "verse": 11,
+                    "text": "(Porque no siendo aun nacidos, ni habiendo hecho aun ni bien ni mal, para que permaneciese el propósito de Dios conforme a la elección, no por las obras, sino por el que llama;)"
+                },
+                {
+                    "verse": 12,
+                    "text": "Le fue dicho,  que el mayor serviría al menor:"
+                },
+                {
+                    "verse": 13,
+                    "text": "Como está escrito: A Jacob amé, mas a Esaú aborrecí."
+                },
+                {
+                    "verse": 14,
+                    "text": "¿Qué diremos pues? ¿ Qué hay injusticia acerca de Dios? En ninguna manera."
+                },
+                {
+                    "verse": 15,
+                    "text": "Porque a Moisés dice: Tendré misericordia del que tendré misericordia; y me compadeceré del que me compadeceré."
+                },
+                {
+                    "verse": 16,
+                    "text": "Así que no  es del que quiere, ni del que corre; sino de Dios, que tiene misericordia."
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque la Escritura dice de Faraón: Para esto mismo te he levantado, para mostrar en ti mi poder, y que mi nombre sea anunciado por toda la tierra."
+                },
+                {
+                    "verse": 18,
+                    "text": "De manera que del que quiere tiene misericordia; y al que quiere, endurece."
+                },
+                {
+                    "verse": 19,
+                    "text": "¶ Me dirás pues: ¿Por qué pues se enoja? ¿porque quién ha resistido a su voluntad?"
+                },
+                {
+                    "verse": 20,
+                    "text": "Mas antes, oh hombre, ¿tú, quién eres, para que alterques con Dios? ¿o dirá el vaso de barro al que le labró: Por qué me has hecho así?"
+                },
+                {
+                    "verse": 21,
+                    "text": "¿O no tiene potestad el ollero, para hacer de la misma masa un vaso para honra, y otro para vergüenza?"
+                },
+                {
+                    "verse": 22,
+                    "text": "¿ Y qué, si Dios queriendo mostrar  su ira, y hacer notorio su poder, soportó con mucha mansedumbre los vasos de ira, preparados para destrucción;"
+                },
+                {
+                    "verse": 23,
+                    "text": "Y haciendo notorias las riquezas de su gloria para con los vasos de misericordia, que él ha antes preparado para gloria;"
+                },
+                {
+                    "verse": 24,
+                    "text": "A los cuales también llamó,  es a saber, a nosotros, no solo de los Judíos, mas también de los Gentiles?"
+                },
+                {
+                    "verse": 25,
+                    "text": "Como también en Oséas dice: Llamaré al que no era mi pueblo, pueblo mío; y amada, a la que no era amada."
+                },
+                {
+                    "verse": 26,
+                    "text": "Y será  que en el lugar donde antes les era dicho: Vosotros no  sois pueblo mío; allí serán llamados hijos del Dios viviente."
+                },
+                {
+                    "verse": 27,
+                    "text": "Isaías también clama tocante a Israel: Aunque fuere el número de los hijos de Israel como la arena de la mar, un residuo será salvo."
+                },
+                {
+                    "verse": 28,
+                    "text": "Porque él consumará la obra, y  la abreviará en justicia; porque obra abreviada hará el Señor sobre la tierra."
+                },
+                {
+                    "verse": 29,
+                    "text": "Y como antes dijo Isaías: Si el Señor de los ejércitos no nos hubiera dejado simiente, como Sodoma fuéramos hechos, y como Gomorra fuéramos semejantes."
+                },
+                {
+                    "verse": 30,
+                    "text": "¶ ¿Qué diremos pues? Que los Gentiles que no seguían justicia han alcanzado la justicia: es a saber, la justicia que es por la fe;"
+                },
+                {
+                    "verse": 31,
+                    "text": "E Israel que seguía la ley de justicia, no ha alcanzado a la ley de la justicia."
+                },
+                {
+                    "verse": 32,
+                    "text": "¿Por qué? Porque no  la buscaron por fe; mas como por las obras de la ley. Por lo cual tropezaron en la piedra de tropiezo;"
+                },
+                {
+                    "verse": 33,
+                    "text": "Como está escrito: He aquí, pongo en Sión piedra de tropiezo, y roca de caída; y todo aquel que creyere en él, no será avergonzado."
+                }
+            ]
+        },
+        {
+            "chapter": 10,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Hermanos, el deseo  vehemente de mi corazón, y  mi oración a Dios por Israel, es para  su salvación."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque yo les doy testimonio, que a la verdad tienen zelo de Dios, mas no conforme a ciencia."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque ignorando la justicia de Dios, y procurando de establecer la suya propia, no se han sujetado a la justicia de Dios."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque el fin de la ley  es Cristo, para  dar justicia a todo aquel que cree."
+                },
+                {
+                    "verse": 5,
+                    "text": "Porque Moisés describe  así la justicia que es por la ley: Que el hombre que aquellas cosas hiciere, vivirá por ellas."
+                },
+                {
+                    "verse": 6,
+                    "text": "Mas  de la justicia que es por la fe, dice así: No digas en tu corazón: ¿Quién subirá al cielo? (esto es, para traer  de lo alto a Cristo.)"
+                },
+                {
+                    "verse": 7,
+                    "text": "¿O, quién descenderá al abismo? (esto es, para volver a traer a Cristo de los muertos.)"
+                },
+                {
+                    "verse": 8,
+                    "text": "Mas ¿qué dice? Cercana te está la palabra,  es a saber, en tu boca, y en tu corazón. Esta es la palabra de fe la cual predicamos:"
+                },
+                {
+                    "verse": 9,
+                    "text": "Que si confesares con tu boca al Señor Jesús, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo."
+                },
+                {
+                    "verse": 10,
+                    "text": "Porque con el corazón se cree para  alcanzar justicia; y con la boca se hace confesión para salud."
+                },
+                {
+                    "verse": 11,
+                    "text": "Porque la Escritura dice: Todo aquel que en él creyere, no será avergonzado."
+                },
+                {
+                    "verse": 12,
+                    "text": "Porque no hay diferencia entre el Judío y el Griego; porque uno mismo es el Señor de todos, rico para con todos los que le invocan."
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque todo aquel que invocare el nombre del Señor, será salvo."
+                },
+                {
+                    "verse": 14,
+                    "text": "¿Cómo pues invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán si no hay quien  les predique?"
+                },
+                {
+                    "verse": 15,
+                    "text": "¿Y cómo predicarán si no fueren enviados? como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que traen la buena nueva de los bienes!"
+                },
+                {
+                    "verse": 16,
+                    "text": "Mas no todos obedecieron al evangelio; porque Isaías dice: Señor, ¿quién creyó nuestro dicho?"
+                },
+                {
+                    "verse": 17,
+                    "text": "Luego la fe  es por el oír, y el oír por la palabra de Dios."
+                },
+                {
+                    "verse": 18,
+                    "text": "Mas digo yo: ¿ Qué no han oído? Antes cierto por toda la tierra ha salido el sonido de ellos, y hasta los cabos de la redondez de la tierra las palabras de ellos."
+                },
+                {
+                    "verse": 19,
+                    "text": "Mas digo yo: ¿No  lo ha conocido Israel? Primeramente Moisés dice: Yo os provocaré a zelos por  un pueblo que no  es mi pueblo,  y con una nación insensata os provocaré a ira."
+                },
+                {
+                    "verse": 20,
+                    "text": "Mas, Isaías habla claro, y dice: Fui hallado de los que no me buscaban; manifestéme a los que no preguntaban por mí."
+                },
+                {
+                    "verse": 21,
+                    "text": "Mas contra Israel dice: Todo el día extendí mis manos a un pueblo rebelde y altercador."
+                }
+            ]
+        },
+        {
+            "chapter": 11,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Digo pues: ¿Ha desechado Dios a su pueblo? En ninguna manera. Porque también yo soy Israelita, de la simiente de Abraham,  de la tribu de Benjamín."
+                },
+                {
+                    "verse": 2,
+                    "text": "No ha desechado Dios a su pueblo, al cual antes conoció. ¿O no sabéis lo que dice en Elías la Escritura? cómo se queja a Dios contra Israel, diciendo:"
+                },
+                {
+                    "verse": 3,
+                    "text": "Señor, a tus profetas han muerto, y a tus altares han minado, y yo he quedado solo, y procuran  quitarme mi vida."
+                },
+                {
+                    "verse": 4,
+                    "text": "Mas ¿qué le dice la divina respuesta? Yo me he reservado siete mil varones que no han doblado la rodilla delante  de la imagen de Baal."
+                },
+                {
+                    "verse": 5,
+                    "text": "Así también, pues, en este tiempo ha quedado un residuo según la elección de la gracia."
+                },
+                {
+                    "verse": 6,
+                    "text": "Y si por gracia, luego no  es por obras: de otro modo la gracia ya no es gracia. Mas si por obras, ya no es gracia: de otra manera la obra ya no es obra."
+                },
+                {
+                    "verse": 7,
+                    "text": "¶ ¿Pues qué? Lo que buscaba Israel, aquello no ha alcanzado; mas la elección lo ha alcanzado; y los demás fueron endurecidos."
+                },
+                {
+                    "verse": 8,
+                    "text": "(Como está escrito: Dióles Dios espíritu de adormecimiento, ojos con que no vean, y oídos con que no oigan;) hasta el día de hoy."
+                },
+                {
+                    "verse": 9,
+                    "text": "Y David dice: Séales hecha su mesa un lazo, y una red, y un tropezadero, y una retribución;"
+                },
+                {
+                    "verse": 10,
+                    "text": "Sus ojos sean oscurecidos para que no vean; y agóbiales siempre el espinazo."
+                },
+                {
+                    "verse": 11,
+                    "text": "¶ Digo pues: ¿Tropezaron  luego de tal manera que cayesen del todo? En ninguna manera; antes  mas bien por la caída de ellos  vino la salud a los Gentiles, para que  por ellos fuesen provocados a zelos."
+                },
+                {
+                    "verse": 12,
+                    "text": "Y si la caída de ellos  es la riqueza del mundo, y el menoscabo de ellos la riqueza de los Gentiles, ¿cuánto más la plenitud de ellos?"
+                },
+                {
+                    "verse": 13,
+                    "text": "Porque, a vosotros hablo, Gentiles, en cuanto a la verdad yo soy apóstol de los Gentiles, mi ministerio ensalzo,"
+                },
+                {
+                    "verse": 14,
+                    "text": "Si en alguna manera provocase a emulación a  los de mi carne, e hiciese salvos a algunos de ellos."
+                },
+                {
+                    "verse": 15,
+                    "text": "Porque si el desechamiento de ellos  es la reconciliación del mundo, ¿qué  será el recibimiento de  ellos, sino vida de los muertos?"
+                },
+                {
+                    "verse": 16,
+                    "text": "Porque si el primer fruto  es santo, también  lo es la masa; y si la raíz  es santa, también  lo son los ramos."
+                },
+                {
+                    "verse": 17,
+                    "text": "Y si algunos de los ramos fueron quebrados, y tú siendo acebuche has sido injerido en lugar de ellos, y has sido hecho participante de la raíz, y de la grosura de la oliva;"
+                },
+                {
+                    "verse": 18,
+                    "text": "No te jactes contra los ramos; mas si te jactas,  sabe que no sustentas tú a la raíz, sino la raíz a ti."
+                },
+                {
+                    "verse": 19,
+                    "text": "Dirás pues: Los ramos fueron quebrados para que yo fuese injerido."
+                },
+                {
+                    "verse": 20,
+                    "text": "Bien: por  su incredulidad fueron quebrados, mas tú por la fe estás en pie. No te ensoberbezcas, antes teme;"
+                },
+                {
+                    "verse": 21,
+                    "text": "Porque si Dios no perdonó a los ramos naturales,  teme que a ti tampoco te perdone."
+                },
+                {
+                    "verse": 22,
+                    "text": "Mira pues la bondad, y la severidad de Dios: la severidad  ciertamente para con los que cayeron; mas la bondad para contigo, si permanecieres en  su bondad; de otra manera tú también serás cortado."
+                },
+                {
+                    "verse": 23,
+                    "text": "Y aun ellos, si no permanecieren en incredulidad, serán injeridos; que poderoso es Dios para volverlos a injerir."
+                },
+                {
+                    "verse": 24,
+                    "text": "Porque si tú fuiste cortado del natural acebuche, y contra natura fuiste injerido en la buena oliva, ¿cuánto más estos, que son los  ramos naturales, serán injeridos en su oliva?"
+                },
+                {
+                    "verse": 25,
+                    "text": "Porque no quiero, hermanos, que ignoréis este misterio, para que no seáis acerca de vosotros mismos arrogantes;  y es, que el endurecimiento en parte ha acontecido a Israel, hasta tanto que entrase la plenitud de los Gentiles."
+                },
+                {
+                    "verse": 26,
+                    "text": "Y así todo Israel será salvo; como está escrito: Vendrá de Sión el Libertador, y apartará de Jacob la impiedad."
+                },
+                {
+                    "verse": 27,
+                    "text": "Y éste  es mi concierto con ellos, cuando quitaré sus pecados."
+                },
+                {
+                    "verse": 28,
+                    "text": "Así que, en cuanto al evangelio,  son enemigos por causa de vosotros; mas en cuanto a la elección,  son muy amados por causa de los padres."
+                },
+                {
+                    "verse": 29,
+                    "text": "Porque sin arrepentimiento  son las mercedes y la vocación de Dios."
+                },
+                {
+                    "verse": 30,
+                    "text": "Porque como también vosotros en algún tiempo no creísteis a Dios, mas ahora habéis alcanzado misericordia por  ocasión de la incredulidad de ellos;"
+                },
+                {
+                    "verse": 31,
+                    "text": "Así también estos ahora no han creído, para que en vuestra misericordia, ellos también alcancen misericordia."
+                },
+                {
+                    "verse": 32,
+                    "text": "Porque Dios encerró a todos en incredulidad, para tener misericordia de todos."
+                },
+                {
+                    "verse": 33,
+                    "text": "¶ ¡Oh profundidad de las riquezas de la sabiduría, y de la ciencia de Dios! ¡Cuán incomprensibles  son sus juicios, e investigables sus caminos!"
+                },
+                {
+                    "verse": 34,
+                    "text": "Porque ¿quién entendió la mente del Señor? ¿o quién fue su consejero?"
+                },
+                {
+                    "verse": 35,
+                    "text": "¿O quién le dio a él primero, para que le sea pagado?"
+                },
+                {
+                    "verse": 36,
+                    "text": "Porque de él, y por él, y en él  son todas las cosas. A él  sea gloria por los siglos. Amén."
+                }
+            ]
+        },
+        {
+            "chapter": 12,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Así que, hermanos, os ruego por las misericordias de Dios que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios,  que es vuestro culto racional."
+                },
+                {
+                    "verse": 2,
+                    "text": "Y no os conforméis a este siglo; mas transformáos por la renovación de vuestro entendimiento, para que experimentéis cual  sea la voluntad de Dios, la buena, agradable y perfecta."
+                },
+                {
+                    "verse": 3,
+                    "text": "Digo pues, por la gracia que me es dada, a cada uno  de los que están entre vosotros, que no piense  de si mismo más elevadamente de lo que debe pensar; sino que piense discretamente, cada uno conforme a la medida de fe que Dios le repartió."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque de la manera que en un cuerpo tenemos muchos miembros, empero todos los miembros no tienen el mismo oficio:"
+                },
+                {
+                    "verse": 5,
+                    "text": "Así nosotros  siendo muchos, somos un  mismo cuerpo en Cristo, y cada uno, miembros los unos de los otros."
+                },
+                {
+                    "verse": 6,
+                    "text": "De manera que teniendo diferentes dones según la gracia que nos es dada, si  de profecía,  sea conforme a la medida de la fe;"
+                },
+                {
+                    "verse": 7,
+                    "text": "O  si de ministerio, en servir; o el que enseña, en enseñar;"
+                },
+                {
+                    "verse": 8,
+                    "text": "O el que exhorta, en exhortar; el que reparte,  hágalo en simplicidad; el que preside, en solicitud; el que hace misericordia, en alegría."
+                },
+                {
+                    "verse": 9,
+                    "text": "El amor sea sin fingimiento: aborreciendo lo malo, llegándoos a lo bueno."
+                },
+                {
+                    "verse": 10,
+                    "text": "Amándoos los unos a los otros con amor de hermanos; en la honra prefiriéndoos los unos a los otros."
+                },
+                {
+                    "verse": 11,
+                    "text": "En los quehaceres no perezosos: ardientes en espíritu: sirviendo al Señor:"
+                },
+                {
+                    "verse": 12,
+                    "text": "Gozosos en la esperanza: sufridos en la tribulación: constantes en la oración:"
+                },
+                {
+                    "verse": 13,
+                    "text": "Comunicando a las necesidades de los santos: siguiendo la hospitalidad."
+                },
+                {
+                    "verse": 14,
+                    "text": "Bendecíd a los que os persiguen: bendecíd, y no maldigáis."
+                },
+                {
+                    "verse": 15,
+                    "text": "Regocijáos con los que se regocijan; y llorád con los que lloran."
+                },
+                {
+                    "verse": 16,
+                    "text": " Sed entre vosotros de un mismo ánimo: no altivos, mas acomodándoos a los humildes: no seáis sabios acerca de vosotros mismos."
+                },
+                {
+                    "verse": 17,
+                    "text": "No paguéis a nadie mal por mal: aplicándoos a hacer lo bueno delante de todos los hombres."
+                },
+                {
+                    "verse": 18,
+                    "text": "Si se puede hacer,  en cuanto es en vosotros, tenéd paz con todos los hombres."
+                },
+                {
+                    "verse": 19,
+                    "text": "No os venguéis a vosotros mismos, amados; antes,  mas bien, dad lugar a la ira; porque escrito está: Mía  es la venganza: yo pagaré, dice el Señor."
+                },
+                {
+                    "verse": 20,
+                    "text": "Así que si tu enemigo tuviere hambre, dále de comer: si tuviere sed, dále de beber: que en haciendo esto, ascuas de fuego amontonarás sobre su cabeza."
+                },
+                {
+                    "verse": 21,
+                    "text": "No seas vencido de lo malo; antes vence con bien el mal."
+                }
+            ]
+        },
+        {
+            "chapter": 13,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Toda alma sea sujeta a las potestades superiores; porque no hay potestad sino de Dios: las potestades que son, de Dios son ordenadas."
+                },
+                {
+                    "verse": 2,
+                    "text": "Así que el que se opone a la potestad, al orden de Dios resiste; y los que resisten, ellos mismos recibirán condenación para sí."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque los magistrados no son para temor de las buenas obras, sino de las malas. ¿Quieres pues no temer la potestad? Haz lo bueno, y tendrás alabanza de ella;"
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque te es el ministro de Dios para bien. Mas si hicieres lo malo, teme; porque no sin causa trae la espada, porque es el ministro de Dios, vengador para  ejecutar su ira al que hace lo malo."
+                },
+                {
+                    "verse": 5,
+                    "text": "Por lo cual es necesario que  le seáis sujetos: no solamente por  motivo de la ira, mas aun por la conciencia."
+                },
+                {
+                    "verse": 6,
+                    "text": "Porque por esto  les pagáis también los tributos; porque son ministros de Dios que sirven a esto mismo."
+                },
+                {
+                    "verse": 7,
+                    "text": "Pagád pues a todos lo que debéis: al que tributo, tributo: al que impuesto, impuesto: al que temor, temor: al que honra, honra."
+                },
+                {
+                    "verse": 8,
+                    "text": "¶ No debáis a nadie nada, sino que os améis unos a otros; porque el que ama al prójimo, cumplió la ley."
+                },
+                {
+                    "verse": 9,
+                    "text": "Porque esto: No adulterarás: no matarás: no hurtarás: no dirás falso testimonio: no codiciarás; y si  hay algún otro mandamiento, en esta palabra se comprende sumariamente: Amarás a tu prójimo, como a ti mismo."
+                },
+                {
+                    "verse": 10,
+                    "text": "El amor no hace mal al prójimo, así que el amor es el cumplimiento de la ley."
+                },
+                {
+                    "verse": 11,
+                    "text": "Y esto, conociendo el tiempo, que  es ya hora de levantarnos del sueño; porque ahora nos  esta más cerca nuestra salvación, que cuando creíamos."
+                },
+                {
+                    "verse": 12,
+                    "text": "La noche ya pasa, y el día va llegando: desechemos pues las obras de las tinieblas, y vistámonos las armas de luz."
+                },
+                {
+                    "verse": 13,
+                    "text": "Andemos honestamente, como de día: no en glotonerías y borracheras, no en lechos y disoluciones, no en pendencias y envidia:"
+                },
+                {
+                    "verse": 14,
+                    "text": "Mas vestíos del Señor Jesu Cristo; y no penséis en la carne para  cumplir sus deseos."
+                }
+            ]
+        },
+        {
+            "chapter": 14,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Al enfermo en la fe recibíd le, sin  andar en contiendas de opiniones."
+                },
+                {
+                    "verse": 2,
+                    "text": "Porque uno cree que se ha de comer de todas cosas: otro enfermo come legumbres."
+                },
+                {
+                    "verse": 3,
+                    "text": "El que come, no menosprecie al que no come; y el que no come, no juzgue al que come; porque Dios le ha recibido."
+                },
+                {
+                    "verse": 4,
+                    "text": "¿Tú, quién eres, que juzgas el siervo ajeno? Para su señor está en pie, o cae; mas, se afirmará: que poderoso es Dios para afirmarle."
+                },
+                {
+                    "verse": 5,
+                    "text": "Uno juzga  que hay diferencia entre día y día: otro juzga  iguales todos los días. Cada uno esté asegurado en su mismo ánimo."
+                },
+                {
+                    "verse": 6,
+                    "text": "El que hace caso del día,  lo hace para el Señor; y el que no hace caso del día, para el Señor no  lo hace. El que come, para el Señor come; porque da gracias a Dios; y el que no come, para el Señor no come, y da gracias a Dios."
+                },
+                {
+                    "verse": 7,
+                    "text": "Porque ninguno de nosotros vive para sí; y ninguno muere para sí."
+                },
+                {
+                    "verse": 8,
+                    "text": "Que si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. Así que, o que vivamos, o que muramos, del Señor somos."
+                },
+                {
+                    "verse": 9,
+                    "text": "Porque Cristo para esto murió, y resucitó, y volvió a vivir, para enseñorearse así de los muertos como de los que viven."
+                },
+                {
+                    "verse": 10,
+                    "text": "Mas tú ¿por qué juzgas a tu hermano? O tú también ¿por qué menosprecias a tu hermano? porque todos hemos de comparecer delante del tribunal de Cristo."
+                },
+                {
+                    "verse": 11,
+                    "text": "Pues escrito está: Vivo yo, dice el Señor, que a mí se doblará toda rodilla; y toda lengua confesará a Dios."
+                },
+                {
+                    "verse": 12,
+                    "text": "De manera que cada uno de nosotros dará a Dios razón de sí."
+                },
+                {
+                    "verse": 13,
+                    "text": "Así que, no juzguemos más los unos a los otros; mas antes juzgád esto, que nadie ponga tropiezo al hermano, o ocasión de caer."
+                },
+                {
+                    "verse": 14,
+                    "text": "Yo sé, y estoy persuadido en el Señor Jesús, que nada  hay de suyo inmundo; mas a aquel que piensa ser inmunda alguna cosa, a aquel  le es inmunda."
+                },
+                {
+                    "verse": 15,
+                    "text": "Empero si por causa de  tu comida tu hermano es contristado, ya no andas conforme a la caridad. No eches a perder con tu comida a aquel por el cual Cristo murió."
+                },
+                {
+                    "verse": 16,
+                    "text": " Que no se hable mal, pues, de vuestro bien:"
+                },
+                {
+                    "verse": 17,
+                    "text": "Porque el reino de Dios no es comida ni bebida; sino justicia, y paz, y gozo en el Espíritu Santo."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque el que en esto sirve a Cristo, agrada a Dios, y  es acepto a los hombres."
+                },
+                {
+                    "verse": 19,
+                    "text": "Sigamos pues lo que hace a la paz, y a la edificación de los unos a los otros."
+                },
+                {
+                    "verse": 20,
+                    "text": "No destruyas la obra de Dios por causa de la comida. Todas las cosas a la verdad  son limpias; mas malo  es para el hombre que come con ofensa."
+                },
+                {
+                    "verse": 21,
+                    "text": "Bueno  es no comer carne, ni beber vino, ni  nada en que tu hermano tropiece, o se ofenda, o se enflaquezca."
+                },
+                {
+                    "verse": 22,
+                    "text": "¿Tú, tienes fe? Tén la contigo delante de Dios. Bienaventurado el que no se condena a sí mismo con lo que aprueba."
+                },
+                {
+                    "verse": 23,
+                    "text": "Mas el que duda, si comiere, es condenado, porque no  comió con fe; y todo lo que no  es de fe, es pecado."
+                }
+            ]
+        },
+        {
+            "chapter": 15,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Así que los que somos fuertes debemos sobrellevar las flaquezas de los flacos, y no agradarnos a nosotros mismos."
+                },
+                {
+                    "verse": 2,
+                    "text": "Cada uno de nosotros agrade a  su prójimo para  su bien, a fin de edificar le."
+                },
+                {
+                    "verse": 3,
+                    "text": "Porque aun Cristo no se agradó a sí mismo; antes, como está escrito: Los vituperios de los que te vituperaban, cayeron sobre mí."
+                },
+                {
+                    "verse": 4,
+                    "text": "Porque las cosas que antes fueron escritas, para nuestro enseñamiento fueron escritas; para que por la paciencia, y consolación de las Escrituras, tengamos esperanza."
+                },
+                {
+                    "verse": 5,
+                    "text": "Mas el Dios de la paciencia y de la consolación, os dé que entre vosotros seáis unánimes según Cristo Jesús:"
+                },
+                {
+                    "verse": 6,
+                    "text": "Para que de un  solo corazón  y de una  misma boca glorifiquéis al Dios y Padre de nuestro Señor Jesu Cristo."
+                },
+                {
+                    "verse": 7,
+                    "text": "Por tanto recibíos los unos a los otros, como también Cristo nos ha recibido para gloria de Dios."
+                },
+                {
+                    "verse": 8,
+                    "text": "¶ Digo pues, que Cristo Jesús fue ministro de la circuncisión, por la verdad de Dios, para confirmar las promesas  hechas a los padres;"
+                },
+                {
+                    "verse": 9,
+                    "text": "Y para que los Gentiles glorifiquen a Dios por  su misericordia, como está escrito: Por tanto yo te confesaré a ti entre los Gentiles, y cantaré a tu nombre."
+                },
+                {
+                    "verse": 10,
+                    "text": "Y otra vez dice: Regocijáos, vosotros los Gentiles, con su pueblo."
+                },
+                {
+                    "verse": 11,
+                    "text": "Y otra vez: Alabád al Señor todos los Gentiles, y magnificádle todos los pueblos."
+                },
+                {
+                    "verse": 12,
+                    "text": "Y otra vez dice Isaías: Saldrá raíz de Jessé, y el que se levantará para regir los Gentiles, los Gentiles esperarán en él."
+                },
+                {
+                    "verse": 13,
+                    "text": "Y el Dios de esperanza os hincha de todo gozo y paz en el creer, para que abundéis en esperanza por la virtud del Espíritu Santo."
+                },
+                {
+                    "verse": 14,
+                    "text": "¶ Empero aun yo mismo estoy persuadido de vosotros, hermanos míos, que vosotros también estáis llenos de bondad, hartos de todo conocimiento, de tal manera que podáis amonestaros los unos a los otros."
+                },
+                {
+                    "verse": 15,
+                    "text": "Mas os he escrito, hermanos, en alguna parte osadamente, como recordándoos por la gracia que de Dios me es dada,"
+                },
+                {
+                    "verse": 16,
+                    "text": "Para que fuese yo ministro de Jesu Cristo a los Gentiles, ministrando el evangelio de Dios, para que la ofrenda de los Gentiles  le sea acepta, siendo santificada por el Espíritu Santo."
+                },
+                {
+                    "verse": 17,
+                    "text": "Así que tengo de que gloriarme en Cristo para con Dios."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque no osaría hablar de alguna cosa que Cristo no haya hecho por mí para hacer obedientes a los Gentiles, por palabra y obra:"
+                },
+                {
+                    "verse": 19,
+                    "text": "Con poder de milagros y prodigios, en virtud del Espíritu de Dios; de tal manera que desde Jerusalem, y al derredor hasta Ilirico,  lo haya henchido  todo del evangelio de Cristo."
+                },
+                {
+                    "verse": 20,
+                    "text": "Y de esta manera me esforcé a predicar este evangelio; no donde Cristo fuese ya nombrado, por no edificar sobre ajeno fundamento;"
+                },
+                {
+                    "verse": 21,
+                    "text": "Antes, como está escrito: A los que no fue anunciado de él, estos verán; y los que no oyeron, entenderán."
+                },
+                {
+                    "verse": 22,
+                    "text": "Por lo cual también he sido impedido muchas veces de venir a vosotros."
+                },
+                {
+                    "verse": 23,
+                    "text": "Mas ahora no teniendo ya más lugar en estas partes, y deseando venir a vosotros muchos años ha:"
+                },
+                {
+                    "verse": 24,
+                    "text": "Cuando me partiere para España, vendré a vosotros; porque espero que pasando os veré, y que seré encaminado por vosotros hacia allá: cuando primero me hubiere en parte saciado de vuestra  compañía."
+                },
+                {
+                    "verse": 25,
+                    "text": "Mas ahora parto para Jerusalem a ministrar a los santos."
+                },
+                {
+                    "verse": 26,
+                    "text": "Porque Macedonia y Acaya tuvieron por bien de hacer una colecta para los pobres  de entre los santos que están en Jerusalem."
+                },
+                {
+                    "verse": 27,
+                    "text": "Porque les pareció bueno, y cierto, que son deudores a ellos; porque si los Gentiles han sido hechos participantes de sus  bienes espirituales, deben también  ellos servirles en los carnales."
+                },
+                {
+                    "verse": 28,
+                    "text": "Así que, cuando yo hubiere concluido esto, y les hubiere consignado este fruto, pasaré por vosotros a España."
+                },
+                {
+                    "verse": 29,
+                    "text": "Y ya sé que cuando viniere a vosotros, vendré en la plenitud de la bendición del evangelio de Cristo."
+                },
+                {
+                    "verse": 30,
+                    "text": "Ruégoos empero, hermanos, por el Señor nuestro Jesu Cristo, y por el amor del Espíritu, que os esforcéis conmigo en  vuestras oraciones por mí a Dios;"
+                },
+                {
+                    "verse": 31,
+                    "text": "Que yo sea librado de los incrédulos que están en Judea, y que éste mi servicio para  los de Jerusalem sea acepto a los santos;"
+                },
+                {
+                    "verse": 32,
+                    "text": "Para que con gozo venga a vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros."
+                },
+                {
+                    "verse": 33,
+                    "text": "Y el Dios de paz  sea con todos vosotros. Amén."
+                }
+            ]
+        },
+        {
+            "chapter": 16,
+            "verses": [
+                {
+                    "verse": 1,
+                    "text": "Encomiéndoos a Febe nuestra hermana, la cual está en el servicio de la iglesia que está en Cencreas:"
+                },
+                {
+                    "verse": 2,
+                    "text": "Que la recibáis en el Señor como es propio de santos; y que le ayudéis en cualquiera cosa en que os hubiere menester; porque ella ha ayudado a muchos, y a mí mismo también."
+                },
+                {
+                    "verse": 3,
+                    "text": "Saludád a Priscila y a Aquila, mis coadjutores en Cristo Jesús:"
+                },
+                {
+                    "verse": 4,
+                    "text": "(Que pusieron sus cuellos  al degolladero por mi vida, a los cuales no doy gracias yo solo, mas aun todas las iglesias de los Gentiles:)"
+                },
+                {
+                    "verse": 5,
+                    "text": "Asimismo a la iglesia que está en su casa. Saludád a Epeneto, amado mío, que es las primicias de Acaya para Cristo."
+                },
+                {
+                    "verse": 6,
+                    "text": "Saludád a María, la cual ha trabajado mucho por nosotros."
+                },
+                {
+                    "verse": 7,
+                    "text": "Saludád a Andrónico y a Junia, mis parientes, y mis compañeros en prisiones, los cuales son insignes entre los apóstoles; los cuales fueron en Cristo antes que yo."
+                },
+                {
+                    "verse": 8,
+                    "text": "Saludád a Amplias, amado mío en el Señor."
+                },
+                {
+                    "verse": 9,
+                    "text": "Saludád a Urbano, nuestro ayudador en Cristo Jesús, y a Staquis, amado mío."
+                },
+                {
+                    "verse": 10,
+                    "text": "Saludád a Apéles, aprobado en Cristo. Saludád a los que son de Aristóbulo."
+                },
+                {
+                    "verse": 11,
+                    "text": "Saludád a Herodión, mi pariente. Saludád a los que son de Narciso, los que son en el Señor."
+                },
+                {
+                    "verse": 12,
+                    "text": "Saludád a Trifena, y a Trifosa, las cuales trabajan en el Señor. Saludád a la amada Perside, la cual ha trabajado mucho en el Señor."
+                },
+                {
+                    "verse": 13,
+                    "text": "Saludád a Rufo, escogido en el Señor; y a su madre y mía."
+                },
+                {
+                    "verse": 14,
+                    "text": "Saludád a Asincrito, a Flegonte, a Hérmas, a Patrobas, a Hérmes, y a los hermanos que están con ellos."
+                },
+                {
+                    "verse": 15,
+                    "text": "Saludád a Filologo, y a Julia, a Nereo, y a su hermana, y a Olímpas, y a todos los santos que están con ellos."
+                },
+                {
+                    "verse": 16,
+                    "text": "Saludáos los unos a los otros con santo beso. Os saludan las iglesias de Cristo."
+                },
+                {
+                    "verse": 17,
+                    "text": "Y os ruego, hermanos, que miréis por los que causan disensiones y escándalos contrarios a la doctrina que vosotros habéis aprendido; y apartáos de ellos."
+                },
+                {
+                    "verse": 18,
+                    "text": "Porque los tales no sirven al Señor nuestro Jesu Cristo, sino a sus vientres; y con suaves palabras y buenas razones engañan los corazones de los sencillos."
+                },
+                {
+                    "verse": 19,
+                    "text": "Porque vuestra obediencia divulgada es por todos lugares; así que, me regocijo por causa de vosotros; mas quiero que seáis sabios en el bien, y simples en el mal."
+                },
+                {
+                    "verse": 20,
+                    "text": "Y el Dios de paz quebrantará presto a Satanás debajo de vuestros pies. La gracia del Señor nuestro Jesu Cristo  sea con vosotros. Amén."
+                },
+                {
+                    "verse": 21,
+                    "text": "Os saludan Timoteo, mi coadjutor, y Lucio, y Jasón, y Sosipáter mis parientes."
+                },
+                {
+                    "verse": 22,
+                    "text": "Yo Tercio, que escribí  esta epístola, os saludo en el Señor."
+                },
+                {
+                    "verse": 23,
+                    "text": "Salúdaos Gayo, mi huésped, y de toda la iglesia. Salúdaos Erasto, tesorero de la ciudad, y el hermano Cuarto."
+                },
+                {
+                    "verse": 24,
+                    "text": "La gracia de nuestro Señor Jesu Cristo  sea con todos vosotros. Amén."
+                },
+                {
+                    "verse": 25,
+                    "text": "Y al que puede confirmaros según mi evangelio, y la predicación de Jesu Cristo, según la revelación del misterio encubierto desde tiempos eternos,"
+                },
+                {
+                    "verse": 26,
+                    "text": "Mas manifestado ahora, y por las Escrituras de los profetas según el mandamiento del Dios eterno, declarado a todas las naciones para que obedezcan a la fe:"
+                },
+                {
+                    "verse": 27,
+                    "text": "A el solo Dios sabio,  sea gloria por Jesu Cristo para siempre. Amén."
+                }
+            ]
+        }
+    ]
+}
